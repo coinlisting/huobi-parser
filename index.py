@@ -15,7 +15,7 @@ if __name__ == '__main__':
     while True:
         last_announcement = get_last_anouncement()
         message = ''.join(last_announcement['TEXT'] + ' ' + binance + last_announcement['LINK'])
-        #message = ''.join('Binance Adds ALGO/RUB, AUD/USDC, LAZIO/BUSD, LUNA/BIDR, MANA/TRY, OXT/BUSD & SHIB/UAH Trading Pairs').replace('&', "and")
+        #message = ''.join('Binance Concludes 3 Promos: Learn & Trade POLS, #Cheers2BinanceP2P Anniversary Challenge, and P2P 2nd Anniversary Merchant Awards')
          
         if last_message == last_announcement['TEXT']:               # сверка с последней новостью, чтоб не спамил
             last_news = get_last_news()
