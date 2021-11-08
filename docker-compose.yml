@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+
+  news_cryptobot:
+    restart: always
+    container_name: news_cryptobot
+    build:
+      dockerfile: Dockerfile
+      context: .

@@ -8,7 +8,7 @@ def telegram_bot_sendtext(bot_message):
     token = env('BOT_TOKEN')
     url = f'https://api.telegram.org/bot{token}/sendMessage'
     params = {
-        'chat_id': env('BOT_SEND_TO'),
+        'chat_id': env('BOT_SEND_TO_TEST'),
         'parse_mode': 'Markdown',
         'text': bot_message
     }
@@ -25,3 +25,4 @@ def telegram_bot_sendtextwhenhavenothing(bot_message, send_to):
     }
     response = requests.get(url, params=params)
     return response.json()
+
