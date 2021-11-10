@@ -7,3 +7,6 @@ services:
     build:
       dockerfile: Dockerfile
       context: .
+    volumes:
+      - ./logs:/news/logs
+      - ./database/files:/news/database/files

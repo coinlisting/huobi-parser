@@ -29,4 +29,3 @@ def get_page_content(url):
     return content
 
 
-

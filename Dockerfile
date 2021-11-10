@@ -8,4 +8,4 @@ RUN pip install -r requirements.txt
 
 COPY . /news
 
-CMD ["python", "./news/index.py"]
+CMD ["python", "/news/index.py"]

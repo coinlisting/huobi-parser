@@ -19,7 +19,7 @@ def telegram_bot_sendtextwhenhavenothing(bot_message, send_to):
     token = env('BOT_TOKEN')
     url = f'https://api.telegram.org/bot{token}/sendMessage'
     params = {
-        'chat_id': env('BOT_SEND_TO_TEST'),
+        'chat_id': env('BOT_SEND_TO'),
         'parse_mode': 'Markdown',
         'text': bot_message
     }

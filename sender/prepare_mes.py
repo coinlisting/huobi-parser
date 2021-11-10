@@ -16,13 +16,14 @@ def preparation_before_sending(parent):
     content = get_page_content(url)
     content['PARENT'] = parent
 
-    if 'Will List' not in content['TEXT']:
-        news = content['TEXT'] +' ' + binance_url + content['LINK']
-        last_news_mes = reading_file('./database/' + content['PARENT'] + '.json')
+    if 'Will Listфывфы' not in content['TEXT']:
+        logging.info('Start {}:, {}'.format(datetime.datetime.now(), str(parent)))
+        news = content['TEXT'] + ' ' + binance_url + content['LINK']
+        last_news_mes = reading_file('./database/files/' + content['PARENT'] + '.json')
 
         #проверяет есть ли похожие новости
         if last_news_mes['TEXT'] != content['TEXT']:
             telegram_bot_sendtext(news)
-            logging.info("Новая новость: " + content['LINK'])
-        writing_file('./database/' + content['PARENT'] + '.json', content)  
-    
+            logging.info("New News: " + content['LINK'] + ' ' + format(datetime.datetime.now()))
+        writing_file('./database/files/' + content['PARENT'] + '.json', content)  
+        logging.info('End {}:, {}'.format(datetime.datetime.now(), str(parent)))

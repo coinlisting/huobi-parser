@@ -11,7 +11,6 @@ if __name__ == '__main__':
             preparation_before_sending('crypto_listing')            #https://www.binance.com/en/support/announcement/c-48?navId=48
             preparation_before_sending('last_news')                 #https://www.binance.com/en/support/announcement/c-49?navId=49
             preparation_before_sending('activities')                #https://www.binance.com/en/support/announcement/c-93?navId=93
-            time.sleep(1)
     except Exception as err: 
         logging.error('Error {}:, {}'.format(datetime.datetime.now(), str(err)))
     except KeyboardInterrupt as error:
