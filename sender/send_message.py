@@ -12,8 +12,6 @@ def telegram_bot_sendtext(bot_message):
         'parse_mode': 'Markdown',
         'text': bot_message
     }
-    print("params ", params)
-    print("url ", url)
     response = requests.get(url, params=params)
     return response.json()
 

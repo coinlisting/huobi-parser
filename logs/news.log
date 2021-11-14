@@ -718,3 +718,22 @@ INFO-2021-11-14 18:23:28,972: Start 2021-11-14 18:23:28.972798:, crypto_listing
 INFO-2021-11-14 18:23:28,974: End 2021-11-14 18:23:28.974798:, crypto_listing
 INFO-2021-11-14 18:23:33,990: Starting  get_page 2021-11-14 18:23:33.990496:, /@coinbaseblog
 INFO-2021-11-14 18:23:35,255: Exit by user 2021-11-14 18:23:35.255083
+INFO-2021-11-14 18:25:50,588: Starting bot 2021-11-14 18:25:50.588186
+INFO-2021-11-14 18:25:50,588: Starting  get_page 2021-11-14 18:25:50.588186:, /@coinbaseblog
+INFO-2021-11-14 18:25:52,112: End  get_page 2021-11-14 18:25:52.112534:, /@coinbaseblog
+INFO-2021-11-14 18:25:52,138: Start 2021-11-14 18:25:52.138519:, crypto_listing
+INFO-2021-11-14 18:25:52,548: New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0 2021-11-14 18:25:52.548235
+INFO-2021-11-14 18:25:52,550: End 2021-11-14 18:25:52.550232:, crypto_listing
+INFO-2021-11-14 18:25:57,563: Starting  get_page 2021-11-14 18:25:57.563348:, /@coinbaseblog
+INFO-2021-11-14 18:25:59,936: Exit by user 2021-11-14 18:25:59.936581
+INFO-2021-11-14 18:27:00,414: Starting bot 2021-11-14 18:27:00.414552
+INFO-2021-11-14 18:27:00,416: Starting  get_page 2021-11-14 18:27:00.415551:, /@coinbaseblog
+INFO-2021-11-14 18:27:02,881: End  get_page 2021-11-14 18:27:02.881776:, /@coinbaseblog
+INFO-2021-11-14 18:27:02,927: Start 2021-11-14 18:27:02.927750:, crypto_listing
+INFO-2021-11-14 18:27:03,432: New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0 2021-11-14 18:27:03.432522
+INFO-2021-11-14 18:27:03,434: End 2021-11-14 18:27:03.434724:, crypto_listing
+INFO-2021-11-14 18:27:08,447: Starting  get_page 2021-11-14 18:27:08.447737:, /@coinbaseblog
+INFO-2021-11-14 18:27:09,861: End  get_page 2021-11-14 18:27:09.861222:, /@coinbaseblog
+INFO-2021-11-14 18:27:09,884: Start 2021-11-14 18:27:09.884209:, crypto_listing
+INFO-2021-11-14 18:27:09,888: End 2021-11-14 18:27:09.887211:, crypto_listing
+INFO-2021-11-14 18:27:11,679: Exit by user 2021-11-14 18:27:11.679844
