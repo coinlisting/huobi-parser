@@ -1,2 +1,266 @@
-INFO-2021-11-11 00:20:49,232:Starting bot 2021-11-11 00:20:49.232160
-ERROR-2021-11-11 00:20:49,533:Error 2021-11-11 00:20:49.533495:, 'str' object has no attribute 'str'
+INFO-2021-11-14 17:09:44,047:Starting bot 2021-11-14 17:09:44.047048
+INFO-2021-11-14 17:09:44,050:Starting  get_page 2021-11-14 17:09:44.050987:, /@coinbaseblog
+INFO-2021-11-14 17:09:45,698:End  get_page 2021-11-14 17:09:45.698850:, /@coinbaseblog
+INFO-2021-11-14 17:09:45,726:Start 2021-11-14 17:09:45.726213:, crypto_listing
+INFO-2021-11-14 17:09:46,052:New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0?source=user_profile---------0------------------------------- 2021-11-14 17:09:46.052665
+INFO-2021-11-14 17:09:46,052:End 2021-11-14 17:09:46.052665:, crypto_listing
+INFO-2021-11-14 17:09:51,053:Starting  get_page 2021-11-14 17:09:51.053094:, /@coinbaseblog
+INFO-2021-11-14 17:09:52,604:End  get_page 2021-11-14 17:09:52.604677:, /@coinbaseblog
+INFO-2021-11-14 17:09:52,634:Start 2021-11-14 17:09:52.634320:, crypto_listing
+INFO-2021-11-14 17:09:52,641:End 2021-11-14 17:09:52.641314:, crypto_listing
+INFO-2021-11-14 17:09:57,646:Starting  get_page 2021-11-14 17:09:57.645161:, /@coinbaseblog
+INFO-2021-11-14 17:09:59,042:End  get_page 2021-11-14 17:09:59.042113:, /@coinbaseblog
+INFO-2021-11-14 17:09:59,064:Start 2021-11-14 17:09:59.064251:, crypto_listing
+INFO-2021-11-14 17:09:59,067:End 2021-11-14 17:09:59.067338:, crypto_listing
+INFO-2021-11-14 17:10:04,075:Starting  get_page 2021-11-14 17:10:04.075223:, /@coinbaseblog
+INFO-2021-11-14 17:10:05,401:End  get_page 2021-11-14 17:10:05.401005:, /@coinbaseblog
+INFO-2021-11-14 17:10:05,424:Start 2021-11-14 17:10:05.424102:, crypto_listing
+INFO-2021-11-14 17:10:05,427:End 2021-11-14 17:10:05.427099:, crypto_listing
+INFO-2021-11-14 17:10:10,438:Starting  get_page 2021-11-14 17:10:10.438361:, /@coinbaseblog
+INFO-2021-11-14 17:10:12,283:End  get_page 2021-11-14 17:10:12.283337:, /@coinbaseblog
+INFO-2021-11-14 17:10:12,308:Start 2021-11-14 17:10:12.308927:, crypto_listing
+INFO-2021-11-14 17:10:12,309:End 2021-11-14 17:10:12.309929:, crypto_listing
+INFO-2021-11-14 17:10:17,312:Starting  get_page 2021-11-14 17:10:17.312713:, /@coinbaseblog
+INFO-2021-11-14 17:10:18,612:End  get_page 2021-11-14 17:10:18.612669:, /@coinbaseblog
+INFO-2021-11-14 17:10:18,651:Start 2021-11-14 17:10:18.651257:, crypto_listing
+INFO-2021-11-14 17:10:18,652:End 2021-11-14 17:10:18.652258:, crypto_listing
+INFO-2021-11-14 17:10:23,524:Exit by user 2021-11-14 17:10:23.524940
+INFO-2021-11-14 17:11:22,260:Starting bot 2021-11-14 17:11:22.260889
+INFO-2021-11-14 17:11:22,260:Starting  get_page 2021-11-14 17:11:22.260889:, /@coinbaseblog
+INFO-2021-11-14 17:11:24,095:End  get_page 2021-11-14 17:11:24.095444:, /@coinbaseblog
+INFO-2021-11-14 17:11:24,131:Start 2021-11-14 17:11:24.131422:, crypto_listing
+INFO-2021-11-14 17:11:24,493:New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0?source=user_profile---------0------------------------------- 2021-11-14 17:11:24.493203
+INFO-2021-11-14 17:11:24,494:End 2021-11-14 17:11:24.494201:, crypto_listing
+INFO-2021-11-14 17:11:29,509:Starting  get_page 2021-11-14 17:11:29.509811:, /@coinbaseblog
+INFO-2021-11-14 17:11:30,815:End  get_page 2021-11-14 17:11:30.815610:, /@coinbaseblog
+INFO-2021-11-14 17:11:30,838:Start 2021-11-14 17:11:30.838922:, crypto_listing
+INFO-2021-11-14 17:11:30,839:End 2021-11-14 17:11:30.839921:, crypto_listing
+INFO-2021-11-14 17:11:31,760:Exit by user 2021-11-14 17:11:31.760457
+INFO-2021-11-14 17:12:21,418:Starting bot 2021-11-14 17:12:21.418730
+INFO-2021-11-14 17:12:21,419:Starting  get_page 2021-11-14 17:12:21.419731:, /@coinbaseblog
+INFO-2021-11-14 17:12:22,796:End  get_page 2021-11-14 17:12:22.796611:, /@coinbaseblog
+INFO-2021-11-14 17:12:22,825:Start 2021-11-14 17:12:22.825360:, crypto_listing
+INFO-2021-11-14 17:12:22,826:End 2021-11-14 17:12:22.826360:, crypto_listing
+INFO-2021-11-14 17:12:27,835:Starting  get_page 2021-11-14 17:12:27.835202:, /@coinbaseblog
+INFO-2021-11-14 17:12:29,809:End  get_page 2021-11-14 17:12:29.809402:, /@coinbaseblog
+INFO-2021-11-14 17:12:29,843:Start 2021-11-14 17:12:29.843509:, crypto_listing
+INFO-2021-11-14 17:12:29,845:End 2021-11-14 17:12:29.845507:, crypto_listing
+INFO-2021-11-14 17:12:34,849:Starting  get_page 2021-11-14 17:12:34.849899:, /@coinbaseblog
+INFO-2021-11-14 17:12:36,562:End  get_page 2021-11-14 17:12:36.562423:, /@coinbaseblog
+INFO-2021-11-14 17:12:36,592:Start 2021-11-14 17:12:36.592787:, crypto_listing
+INFO-2021-11-14 17:12:36,593:End 2021-11-14 17:12:36.593788:, crypto_listing
+INFO-2021-11-14 17:12:41,608:Starting  get_page 2021-11-14 17:12:41.608106:, /@coinbaseblog
+INFO-2021-11-14 17:12:43,121:Exit by user 2021-11-14 17:12:43.121118
+INFO-2021-11-14 17:13:39,972:Starting bot 2021-11-14 17:13:39.972483
+INFO-2021-11-14 17:13:39,972:Starting  get_page 2021-11-14 17:13:39.972483:, /@coinbaseblog
+INFO-2021-11-14 17:13:41,212:End  get_page 2021-11-14 17:13:41.212044:, /@coinbaseblog
+INFO-2021-11-14 17:13:41,249:Start 2021-11-14 17:13:41.249345:, crypto_listing
+INFO-2021-11-14 17:13:41,589:New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0?source=user_profile---------0------------------------------- 2021-11-14 17:13:41.589710
+INFO-2021-11-14 17:13:41,589:End 2021-11-14 17:13:41.589710:, crypto_listing
+INFO-2021-11-14 17:13:46,592:Starting  get_page 2021-11-14 17:13:46.592879:, /@coinbaseblog
+INFO-2021-11-14 17:13:48,244:End  get_page 2021-11-14 17:13:48.244093:, /@coinbaseblog
+INFO-2021-11-14 17:13:48,274:Start 2021-11-14 17:13:48.274020:, crypto_listing
+INFO-2021-11-14 17:13:48,275:End 2021-11-14 17:13:48.275020:, crypto_listing
+INFO-2021-11-14 17:13:53,282:Starting  get_page 2021-11-14 17:13:53.282316:, /@coinbaseblog
+INFO-2021-11-14 17:13:56,179:End  get_page 2021-11-14 17:13:56.179766:, /@coinbaseblog
+INFO-2021-11-14 17:13:56,210:Start 2021-11-14 17:13:56.210396:, crypto_listing
+INFO-2021-11-14 17:13:56,212:End 2021-11-14 17:13:56.212395:, crypto_listing
+INFO-2021-11-14 17:13:56,833:Exit by user 2021-11-14 17:13:56.833191
+INFO-2021-11-14 17:16:17,059:Starting bot 2021-11-14 17:16:17.059331
+INFO-2021-11-14 17:16:17,059:Starting  get_page 2021-11-14 17:16:17.059331:, /@coinbaseblog
+INFO-2021-11-14 17:16:18,884:End  get_page 2021-11-14 17:16:18.884022:, /@coinbaseblog
+INFO-2021-11-14 17:16:18,903:Start 2021-11-14 17:16:18.903012:, crypto_listing
+INFO-2021-11-14 17:16:18,906:End 2021-11-14 17:16:18.906036:, crypto_listing
+INFO-2021-11-14 17:16:23,919:Starting  get_page 2021-11-14 17:16:23.919102:, /@coinbaseblog
+INFO-2021-11-14 17:16:26,095:End  get_page 2021-11-14 17:16:26.095507:, /@coinbaseblog
+INFO-2021-11-14 17:16:26,112:Start 2021-11-14 17:16:26.112494:, crypto_listing
+INFO-2021-11-14 17:16:26,115:End 2021-11-14 17:16:26.115494:, crypto_listing
+INFO-2021-11-14 17:16:29,222:Exit by user 2021-11-14 17:16:29.222704
+INFO-2021-11-14 17:17:01,386:Starting bot 2021-11-14 17:17:01.386439
+INFO-2021-11-14 17:17:01,387:Starting  get_page 2021-11-14 17:17:01.387439:, /@coinbaseblog
+INFO-2021-11-14 17:17:02,723:End  get_page 2021-11-14 17:17:02.723686:, /@coinbaseblog
+INFO-2021-11-14 17:17:02,739:Start 2021-11-14 17:17:02.739312:, crypto_listing
+INFO-2021-11-14 17:17:02,739:End 2021-11-14 17:17:02.739312:, crypto_listing
+INFO-2021-11-14 17:17:07,749:Starting  get_page 2021-11-14 17:17:07.749112:, /@coinbaseblog
+INFO-2021-11-14 17:17:09,193:End  get_page 2021-11-14 17:17:09.193877:, /@coinbaseblog
+INFO-2021-11-14 17:17:09,209:Start 2021-11-14 17:17:09.209504:, crypto_listing
+INFO-2021-11-14 17:17:09,209:End 2021-11-14 17:17:09.209504:, crypto_listing
+INFO-2021-11-14 17:17:14,186:Exit by user 2021-11-14 17:17:14.186061
+INFO-2021-11-14 17:17:45,081:Starting bot 2021-11-14 17:17:45.081647
+INFO-2021-11-14 17:17:45,081:Starting  get_page 2021-11-14 17:17:45.081647:, /@coinbaseblog
+INFO-2021-11-14 17:17:46,540:End  get_page 2021-11-14 17:17:46.540531:, /@coinbaseblog
+INFO-2021-11-14 17:17:46,556:Start 2021-11-14 17:17:46.556156:, crypto_listing
+INFO-2021-11-14 17:17:46,882:New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0?source=user_profile---------0------------------------------- 2021-11-14 17:17:46.882309
+INFO-2021-11-14 17:17:46,882:End 2021-11-14 17:17:46.882309:, crypto_listing
+INFO-2021-11-14 17:17:51,894:Starting  get_page 2021-11-14 17:17:51.894591:, /@coinbaseblog
+INFO-2021-11-14 17:17:53,150:End  get_page 2021-11-14 17:17:53.150157:, /@coinbaseblog
+INFO-2021-11-14 17:17:53,165:Start 2021-11-14 17:17:53.165783:, crypto_listing
+INFO-2021-11-14 17:17:53,181:End 2021-11-14 17:17:53.181407:, crypto_listing
+INFO-2021-11-14 17:17:58,189:Starting  get_page 2021-11-14 17:17:58.189043:, /@coinbaseblog
+INFO-2021-11-14 17:17:59,382:End  get_page 2021-11-14 17:17:59.382748:, /@coinbaseblog
+INFO-2021-11-14 17:17:59,398:Start 2021-11-14 17:17:59.398375:, crypto_listing
+INFO-2021-11-14 17:17:59,398:End 2021-11-14 17:17:59.398375:, crypto_listing
+INFO-2021-11-14 17:18:04,405:Starting  get_page 2021-11-14 17:18:04.405125:, /@coinbaseblog
+INFO-2021-11-14 17:18:05,976:End  get_page 2021-11-14 17:18:05.976766:, /@coinbaseblog
+INFO-2021-11-14 17:18:05,992:Start 2021-11-14 17:18:05.992392:, crypto_listing
+INFO-2021-11-14 17:18:05,992:End 2021-11-14 17:18:05.992392:, crypto_listing
+INFO-2021-11-14 17:18:10,999:Starting  get_page 2021-11-14 17:18:10.999165:, /@coinbaseblog
+INFO-2021-11-14 17:18:12,510:End  get_page 2021-11-14 17:18:12.510127:, /@coinbaseblog
+INFO-2021-11-14 17:18:12,525:Start 2021-11-14 17:18:12.525750:, crypto_listing
+INFO-2021-11-14 17:18:12,525:End 2021-11-14 17:18:12.525750:, crypto_listing
+INFO-2021-11-14 17:18:17,530:Starting  get_page 2021-11-14 17:18:17.530978:, /@coinbaseblog
+INFO-2021-11-14 17:18:19,982:End  get_page 2021-11-14 17:18:19.982199:, /@coinbaseblog
+INFO-2021-11-14 17:18:19,997:Start 2021-11-14 17:18:19.997829:, crypto_listing
+INFO-2021-11-14 17:18:19,997:End 2021-11-14 17:18:19.997829:, crypto_listing
+INFO-2021-11-14 17:18:25,002:Starting  get_page 2021-11-14 17:18:25.002886:, /@coinbaseblog
+INFO-2021-11-14 17:18:28,081:End  get_page 2021-11-14 17:18:28.081439:, /@coinbaseblog
+INFO-2021-11-14 17:18:28,097:Start 2021-11-14 17:18:28.097067:, crypto_listing
+INFO-2021-11-14 17:18:28,097:End 2021-11-14 17:18:28.097067:, crypto_listing
+INFO-2021-11-14 17:18:33,106:Starting  get_page 2021-11-14 17:18:33.106083:, /@coinbaseblog
+INFO-2021-11-14 17:18:35,023:End  get_page 2021-11-14 17:18:35.023307:, /@coinbaseblog
+INFO-2021-11-14 17:18:35,038:Start 2021-11-14 17:18:35.038931:, crypto_listing
+INFO-2021-11-14 17:18:35,038:End 2021-11-14 17:18:35.038931:, crypto_listing
+INFO-2021-11-14 17:18:37,536:Exit by user 2021-11-14 17:18:37.536284
+INFO-2021-11-14 17:19:31,532:Starting bot 2021-11-14 17:19:31.517256
+INFO-2021-11-14 17:19:31,532:Starting  get_page 2021-11-14 17:19:31.532875:, /@coinbaseblog
+INFO-2021-11-14 17:19:33,226:End  get_page 2021-11-14 17:19:33.211105:, /@coinbaseblog
+INFO-2021-11-14 17:19:33,242:Start 2021-11-14 17:19:33.242357:, crypto_listing
+INFO-2021-11-14 17:19:33,242:End 2021-11-14 17:19:33.242357:, crypto_listing
+INFO-2021-11-14 17:19:38,250:Starting  get_page 2021-11-14 17:19:38.250454:, /@coinbaseblog
+INFO-2021-11-14 17:19:40,732:End  get_page 2021-11-14 17:19:40.732300:, /@coinbaseblog
+INFO-2021-11-14 17:19:40,747:Start 2021-11-14 17:19:40.747918:, crypto_listing
+INFO-2021-11-14 17:19:40,747:End 2021-11-14 17:19:40.747918:, crypto_listing
+INFO-2021-11-14 17:19:44,051:Exit by user 2021-11-14 17:19:44.051869
+INFO-2021-11-14 17:19:54,106:Starting bot 2021-11-14 17:19:54.106821
+INFO-2021-11-14 17:19:54,106:Starting  get_page 2021-11-14 17:19:54.106821:, /@coinbaseblog
+INFO-2021-11-14 17:19:56,497:End  get_page 2021-11-14 17:19:56.497961:, /@coinbaseblog
+INFO-2021-11-14 17:19:56,524:Start 2021-11-14 17:19:56.524943:, crypto_listing
+INFO-2021-11-14 17:19:56,845:New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0?source=user_profile---------0------------------------------- 2021-11-14 17:19:56.845669
+INFO-2021-11-14 17:19:56,861:End 2021-11-14 17:19:56.861293:, crypto_listing
+INFO-2021-11-14 17:20:01,868:Starting  get_page 2021-11-14 17:20:01.868411:, /@coinbaseblog
+INFO-2021-11-14 17:20:03,336:End  get_page 2021-11-14 17:20:03.336194:, /@coinbaseblog
+INFO-2021-11-14 17:20:03,351:Start 2021-11-14 17:20:03.351820:, crypto_listing
+INFO-2021-11-14 17:20:03,351:End 2021-11-14 17:20:03.351820:, crypto_listing
+INFO-2021-11-14 17:20:05,234:Exit by user 2021-11-14 17:20:05.234630
+INFO-2021-11-14 17:20:58,024:Starting bot 2021-11-14 17:20:58.024684
+INFO-2021-11-14 17:20:58,027:Starting  get_page 2021-11-14 17:20:58.027683:, /@coinbaseblog
+INFO-2021-11-14 17:20:59,396:End  get_page 2021-11-14 17:20:59.396443:, /@coinbaseblog
+INFO-2021-11-14 17:20:59,427:Start 2021-11-14 17:20:59.427695:, crypto_listing
+INFO-2021-11-14 17:20:59,757:New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0?source=user_profile---------0------------------------------- 2021-11-14 17:20:59.757099
+INFO-2021-11-14 17:20:59,757:End 2021-11-14 17:20:59.757099:, crypto_listing
+INFO-2021-11-14 17:21:04,767:Starting  get_page 2021-11-14 17:21:04.767957:, /@coinbaseblog
+INFO-2021-11-14 17:21:06,188:End  get_page 2021-11-14 17:21:06.188888:, /@coinbaseblog
+INFO-2021-11-14 17:21:06,204:Start 2021-11-14 17:21:06.204516:, crypto_listing
+INFO-2021-11-14 17:21:06,220:End 2021-11-14 17:21:06.220135:, crypto_listing
+INFO-2021-11-14 17:21:07,899:Exit by user 2021-11-14 17:21:07.899366
+INFO-2021-11-14 17:21:46,799:Starting bot 2021-11-14 17:21:46.799135
+INFO-2021-11-14 17:21:46,800:Starting  get_page 2021-11-14 17:21:46.800136:, /@coinbaseblog
+INFO-2021-11-14 17:21:48,742:End  get_page 2021-11-14 17:21:48.742951:, /@coinbaseblog
+INFO-2021-11-14 17:21:48,763:Start 2021-11-14 17:21:48.763979:, crypto_listing
+INFO-2021-11-14 17:21:49,111:New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0?source=user_profile---------0------------------------------- 2021-11-14 17:21:49.111363
+INFO-2021-11-14 17:21:49,111:End 2021-11-14 17:21:49.111363:, crypto_listing
+INFO-2021-11-14 17:21:52,794:Exit by user 2021-11-14 17:21:52.794732
+INFO-2021-11-14 17:22:36,629:Starting bot 2021-11-14 17:22:36.629195
+INFO-2021-11-14 17:22:36,631:Starting  get_page 2021-11-14 17:22:36.631195:, /@coinbaseblog
+INFO-2021-11-14 17:22:38,143:End  get_page 2021-11-14 17:22:38.143194:, /@coinbaseblog
+INFO-2021-11-14 17:22:38,162:Start 2021-11-14 17:22:38.162182:, crypto_listing
+INFO-2021-11-14 17:22:38,163:End 2021-11-14 17:22:38.163182:, crypto_listing
+INFO-2021-11-14 17:22:38,458:Exit by user 2021-11-14 17:22:38.458634
+INFO-2021-11-14 17:22:45,242:Starting bot 2021-11-14 17:22:45.242454
+INFO-2021-11-14 17:22:45,242:Starting  get_page 2021-11-14 17:22:45.242454:, /@coinbaseblog
+INFO-2021-11-14 17:22:47,032:End  get_page 2021-11-14 17:22:47.032822:, /@coinbaseblog
+INFO-2021-11-14 17:22:47,048:Start 2021-11-14 17:22:47.048448:, crypto_listing
+INFO-2021-11-14 17:22:47,402:New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0?source=user_profile---------0------------------------------- 2021-11-14 17:22:47.402706
+INFO-2021-11-14 17:22:47,403:End 2021-11-14 17:22:47.403710:, crypto_listing
+INFO-2021-11-14 17:22:52,408:Starting  get_page 2021-11-14 17:22:52.408074:, /@coinbaseblog
+INFO-2021-11-14 17:22:53,538:End  get_page 2021-11-14 17:22:53.538625:, /@coinbaseblog
+INFO-2021-11-14 17:22:53,555:Start 2021-11-14 17:22:53.555612:, crypto_listing
+INFO-2021-11-14 17:22:53,556:End 2021-11-14 17:22:53.556612:, crypto_listing
+INFO-2021-11-14 17:22:54,287:Exit by user 2021-11-14 17:22:54.286222
+INFO-2021-11-14 17:24:27,761:Starting bot 2021-11-14 17:24:27.761226
+INFO-2021-11-14 17:24:27,761:Starting  get_page 2021-11-14 17:24:27.761226:, /@coinbaseblog
+INFO-2021-11-14 17:24:29,514:End  get_page 2021-11-14 17:24:29.514343:, /@coinbaseblog
+INFO-2021-11-14 17:24:29,532:Start 2021-11-14 17:24:29.532333:, crypto_listing
+INFO-2021-11-14 17:24:29,864:New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0?source=user_profile---------0------------------------------- 2021-11-14 17:24:29.864370
+INFO-2021-11-14 17:24:29,864:End 2021-11-14 17:24:29.864370:, crypto_listing
+INFO-2021-11-14 17:24:34,888:Starting  get_page 2021-11-14 17:24:34.888317:, /@coinbaseblog
+INFO-2021-11-14 17:24:36,665:End  get_page 2021-11-14 17:24:36.665204:, /@coinbaseblog
+INFO-2021-11-14 17:24:36,687:Start 2021-11-14 17:24:36.687188:, crypto_listing
+INFO-2021-11-14 17:24:36,688:End 2021-11-14 17:24:36.688189:, crypto_listing
+INFO-2021-11-14 17:24:41,185:Exit by user 2021-11-14 17:24:41.185967
+INFO-2021-11-14 17:27:01,530:Starting bot 2021-11-14 17:27:01.530831
+INFO-2021-11-14 17:27:01,530:Starting  get_page 2021-11-14 17:27:01.530831:, /@coinbaseblog
+INFO-2021-11-14 17:27:03,291:End  get_page 2021-11-14 17:27:03.291176:, /@coinbaseblog
+INFO-2021-11-14 17:27:03,322:Start 2021-11-14 17:27:03.322425:, crypto_listing
+INFO-2021-11-14 17:27:03,761:New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0?source=user_profile---------0------------------------------- 2021-11-14 17:27:03.761879
+INFO-2021-11-14 17:27:03,761:End 2021-11-14 17:27:03.761879:, crypto_listing
+INFO-2021-11-14 17:27:08,765:Starting  get_page 2021-11-14 17:27:08.765794:, /@coinbaseblog
+INFO-2021-11-14 17:27:10,148:End  get_page 2021-11-14 17:27:10.148918:, /@coinbaseblog
+INFO-2021-11-14 17:27:10,165:Start 2021-11-14 17:27:10.165657:, crypto_listing
+INFO-2021-11-14 17:27:10,167:End 2021-11-14 17:27:10.167654:, crypto_listing
+INFO-2021-11-14 17:27:11,488:Exit by user 2021-11-14 17:27:11.488741
+INFO-2021-11-14 17:27:48,557:Starting bot 2021-11-14 17:27:48.557434
+INFO-2021-11-14 17:27:48,557:Starting  get_page 2021-11-14 17:27:48.557434:, /@coinbaseblog
+INFO-2021-11-14 17:27:50,293:End  get_page 2021-11-14 17:27:50.293575:, /@coinbaseblog
+INFO-2021-11-14 17:27:50,311:Start 2021-11-14 17:27:50.311564:, crypto_listing
+INFO-2021-11-14 17:27:50,312:End 2021-11-14 17:27:50.312563:, crypto_listing
+INFO-2021-11-14 17:27:51,162:Exit by user 2021-11-14 17:27:51.162663
+INFO-2021-11-14 17:27:57,885:Starting bot 2021-11-14 17:27:57.885979
+INFO-2021-11-14 17:27:57,886:Starting  get_page 2021-11-14 17:27:57.886979:, /@coinbaseblog
+INFO-2021-11-14 17:28:00,359:End  get_page 2021-11-14 17:28:00.359673:, /@coinbaseblog
+INFO-2021-11-14 17:28:00,410:Start 2021-11-14 17:28:00.410228:, crypto_listing
+INFO-2021-11-14 17:28:00,771:New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0?source=user_profile---------0------------------------------- 2021-11-14 17:28:00.771125
+INFO-2021-11-14 17:28:00,771:End 2021-11-14 17:28:00.771125:, crypto_listing
+INFO-2021-11-14 17:28:05,782:Starting  get_page 2021-11-14 17:28:05.782835:, /@coinbaseblog
+INFO-2021-11-14 17:28:08,879:End  get_page 2021-11-14 17:28:08.879827:, /@coinbaseblog
+INFO-2021-11-14 17:28:08,911:Start 2021-11-14 17:28:08.911076:, crypto_listing
+INFO-2021-11-14 17:28:08,911:End 2021-11-14 17:28:08.911076:, crypto_listing
+INFO-2021-11-14 17:28:13,920:Starting  get_page 2021-11-14 17:28:13.920811:, /@coinbaseblog
+INFO-2021-11-14 17:28:16,036:End  get_page 2021-11-14 17:28:16.036500:, /@coinbaseblog
+INFO-2021-11-14 17:28:16,053:Start 2021-11-14 17:28:16.053490:, crypto_listing
+INFO-2021-11-14 17:28:16,054:End 2021-11-14 17:28:16.054487:, crypto_listing
+INFO-2021-11-14 17:28:16,873:Exit by user 2021-11-14 17:28:16.873980
+INFO-2021-11-14 17:28:57,463:Starting bot 2021-11-14 17:28:57.463249
+INFO-2021-11-14 17:28:57,463:Starting  get_page 2021-11-14 17:28:57.463249:, /@coinbaseblog
+INFO-2021-11-14 17:28:59,068:End  get_page 2021-11-14 17:28:59.068285:, /@coinbaseblog
+INFO-2021-11-14 17:28:59,099:Start 2021-11-14 17:28:59.099531:, crypto_listing
+INFO-2021-11-14 17:29:01,012:New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0?source=user_profile---------0------------------------------- 2021-11-14 17:29:01.012808
+INFO-2021-11-14 17:29:01,012:End 2021-11-14 17:29:01.012808:, crypto_listing
+INFO-2021-11-14 17:29:05,649:Exit by user 2021-11-14 17:29:05.649982
+INFO-2021-11-14 17:29:45,058:Starting bot 2021-11-14 17:29:45.058539
+INFO-2021-11-14 17:29:45,058:Starting  get_page 2021-11-14 17:29:45.058539:, /@coinbaseblog
+INFO-2021-11-14 17:29:46,446:Exit by user 2021-11-14 17:29:46.446052
+INFO-2021-11-14 17:29:56,701:Starting bot 2021-11-14 17:29:56.701885
+INFO-2021-11-14 17:29:56,701:Starting  get_page 2021-11-14 17:29:56.701885:, /@coinbaseblog
+INFO-2021-11-14 17:29:57,986:End  get_page 2021-11-14 17:29:57.986981:, /@coinbaseblog
+INFO-2021-11-14 17:29:58,002:Start 2021-11-14 17:29:58.002608:, crypto_listing
+INFO-2021-11-14 17:29:58,364:New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0?source=user_profile---------0------------------------------- 2021-11-14 17:29:58.364325
+INFO-2021-11-14 17:29:58,364:End 2021-11-14 17:29:58.364325:, crypto_listing
+INFO-2021-11-14 17:30:03,378:Starting  get_page 2021-11-14 17:30:03.377422:, /@coinbaseblog
+INFO-2021-11-14 17:30:05,284:End  get_page 2021-11-14 17:30:05.284267:, /@coinbaseblog
+INFO-2021-11-14 17:30:05,305:Start 2021-11-14 17:30:05.305254:, crypto_listing
+INFO-2021-11-14 17:30:05,306:End 2021-11-14 17:30:05.306255:, crypto_listing
+INFO-2021-11-14 17:30:10,316:Starting  get_page 2021-11-14 17:30:10.316205:, /@coinbaseblog
+INFO-2021-11-14 17:30:11,939:End  get_page 2021-11-14 17:30:11.939804:, /@coinbaseblog
+INFO-2021-11-14 17:30:11,965:Start 2021-11-14 17:30:11.964792:, crypto_listing
+INFO-2021-11-14 17:30:11,967:End 2021-11-14 17:30:11.967791:, crypto_listing
+INFO-2021-11-14 17:30:16,758:Exit by user 2021-11-14 17:30:16.758188
+INFO-2021-11-14 17:42:12,075:Starting bot 2021-11-14 17:42:12.075406
+INFO-2021-11-14 17:42:12,075:Starting  get_page 2021-11-14 17:42:12.075406:, /@coinbaseblog
+INFO-2021-11-14 17:42:13,769:End  get_page 2021-11-14 17:42:13.769075:, /@coinbaseblog
+INFO-2021-11-14 17:42:13,791:Start 2021-11-14 17:42:13.791958:, crypto_listing
+INFO-2021-11-14 17:42:14,270:New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0 2021-11-14 17:42:14.270957
+INFO-2021-11-14 17:42:14,271:End 2021-11-14 17:42:14.271956:, crypto_listing
+INFO-2021-11-14 17:42:19,276:Starting  get_page 2021-11-14 17:42:19.276909:, /@coinbaseblog
+INFO-2021-11-14 17:42:21,218:End  get_page 2021-11-14 17:42:21.217075:, /@coinbaseblog
+INFO-2021-11-14 17:42:21,250:Start 2021-11-14 17:42:21.250055:, crypto_listing
+INFO-2021-11-14 17:42:21,252:End 2021-11-14 17:42:21.252055:, crypto_listing
+INFO-2021-11-14 17:42:26,266:Starting  get_page 2021-11-14 17:42:26.266138:, /@coinbaseblog
+INFO-2021-11-14 17:42:27,583:End  get_page 2021-11-14 17:42:27.583944:, /@coinbaseblog
+INFO-2021-11-14 17:42:27,603:Start 2021-11-14 17:42:27.603989:, crypto_listing
+INFO-2021-11-14 17:42:27,603:End 2021-11-14 17:42:27.603989:, crypto_listing
+INFO-2021-11-14 17:42:32,609:Starting  get_page 2021-11-14 17:42:32.609871:, /@coinbaseblog
+INFO-2021-11-14 17:42:33,851:End  get_page 2021-11-14 17:42:33.851903:, /@coinbaseblog
+INFO-2021-11-14 17:42:33,883:Start 2021-11-14 17:42:33.883151:, crypto_listing
+INFO-2021-11-14 17:42:33,883:End 2021-11-14 17:42:33.883151:, crypto_listing
+INFO-2021-11-14 17:42:34,794:Exit by user 2021-11-14 17:42:34.794309
