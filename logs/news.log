@@ -264,3 +264,457 @@ INFO-2021-11-14 17:42:33,851:End  get_page 2021-11-14 17:42:33.851903:, /@coinba
 INFO-2021-11-14 17:42:33,883:Start 2021-11-14 17:42:33.883151:, crypto_listing
 INFO-2021-11-14 17:42:33,883:End 2021-11-14 17:42:33.883151:, crypto_listing
 INFO-2021-11-14 17:42:34,794:Exit by user 2021-11-14 17:42:34.794309
+INFO-2021-11-14 18:10:24,337: Starting bot 2021-11-14 18:10:24.337343
+INFO-2021-11-14 18:10:24,339: Starting  get_page 2021-11-14 18:10:24.339341:, /@coinbaseblog
+INFO-2021-11-14 18:10:25,813: End  get_page 2021-11-14 18:10:25.813006:, /@coinbaseblog
+INFO-2021-11-14 18:10:25,845: Start 2021-11-14 18:10:25.845985:, crypto_listing
+INFO-2021-11-14 18:10:26,264: New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0 2021-11-14 18:10:26.264344
+INFO-2021-11-14 18:10:26,266: End 2021-11-14 18:10:26.266000:, crypto_listing
+INFO-2021-11-14 18:10:31,277: Starting  get_page 2021-11-14 18:10:31.277928:, /@coinbaseblog
+INFO-2021-11-14 18:10:33,924: End  get_page 2021-11-14 18:10:33.923134:, /@coinbaseblog
+INFO-2021-11-14 18:10:33,952: Start 2021-11-14 18:10:33.952119:, crypto_listing
+INFO-2021-11-14 18:10:33,954: End 2021-11-14 18:10:33.954119:, crypto_listing
+INFO-2021-11-14 18:10:38,966: Starting  get_page 2021-11-14 18:10:38.966398:, /@coinbaseblog
+INFO-2021-11-14 18:10:40,526: End  get_page 2021-11-14 18:10:40.526302:, /@coinbaseblog
+INFO-2021-11-14 18:10:40,558: Start 2021-11-14 18:10:40.558284:, crypto_listing
+INFO-2021-11-14 18:10:40,562: End 2021-11-14 18:10:40.562282:, crypto_listing
+INFO-2021-11-14 18:10:45,564: Starting  get_page 2021-11-14 18:10:45.564026:, /@coinbaseblog
+INFO-2021-11-14 18:10:47,171: End  get_page 2021-11-14 18:10:47.171925:, /@coinbaseblog
+INFO-2021-11-14 18:10:47,196: Start 2021-11-14 18:10:47.196908:, crypto_listing
+INFO-2021-11-14 18:10:47,199: End 2021-11-14 18:10:47.199914:, crypto_listing
+INFO-2021-11-14 18:10:51,346: Exit by user 2021-11-14 18:10:51.346235
+INFO-2021-11-14 18:10:53,464: Starting bot 2021-11-14 18:10:53.464755
+INFO-2021-11-14 18:10:53,465: Starting  get_page 2021-11-14 18:10:53.465754:, /@coinbaseblog
+INFO-2021-11-14 18:10:55,053: End  get_page 2021-11-14 18:10:55.053287:, /@coinbaseblog
+INFO-2021-11-14 18:10:55,079: Start 2021-11-14 18:10:55.079271:, crypto_listing
+INFO-2021-11-14 18:10:55,083: End 2021-11-14 18:10:55.083268:, crypto_listing
+INFO-2021-11-14 18:11:00,099: Starting  get_page 2021-11-14 18:11:00.099048:, /@coinbaseblog
+INFO-2021-11-14 18:11:01,658: Exit by user 2021-11-14 18:11:01.658939
+INFO-2021-11-14 18:11:10,028: Starting bot 2021-11-14 18:11:10.028350
+INFO-2021-11-14 18:11:10,029: Starting  get_page 2021-11-14 18:11:10.029260:, /@coinbaseblog
+INFO-2021-11-14 18:11:11,755: End  get_page 2021-11-14 18:11:11.755092:, /@coinbaseblog
+INFO-2021-11-14 18:11:11,785: Start 2021-11-14 18:11:11.785077:, crypto_listing
+INFO-2021-11-14 18:11:12,211: New News: https://blog.coinbase.com/empowering-the-crypto-community-with-new-ways-to-learn-and-share-7a5f4bb1dcc0 2021-11-14 18:11:12.211153
+INFO-2021-11-14 18:11:12,213: End 2021-11-14 18:11:12.213151:, crypto_listing
+INFO-2021-11-14 18:11:17,215: Starting  get_page 2021-11-14 18:11:17.215551:, /@coinbaseblog
+INFO-2021-11-14 18:11:19,329: End  get_page 2021-11-14 18:11:19.329593:, /@coinbaseblog
+INFO-2021-11-14 18:11:19,356: Start 2021-11-14 18:11:19.356576:, crypto_listing
+INFO-2021-11-14 18:11:19,360: End 2021-11-14 18:11:19.360574:, crypto_listing
+INFO-2021-11-14 18:11:24,376: Starting  get_page 2021-11-14 18:11:24.376239:, /@coinbaseblog
+INFO-2021-11-14 18:11:25,788: End  get_page 2021-11-14 18:11:25.788373:, /@coinbaseblog
+INFO-2021-11-14 18:11:25,816: Start 2021-11-14 18:11:25.816356:, crypto_listing
+INFO-2021-11-14 18:11:25,821: End 2021-11-14 18:11:25.821354:, crypto_listing
+INFO-2021-11-14 18:11:30,827: Starting  get_page 2021-11-14 18:11:30.827834:, /@coinbaseblog
+INFO-2021-11-14 18:11:32,720: End  get_page 2021-11-14 18:11:32.720314:, /@coinbaseblog
+INFO-2021-11-14 18:11:32,754: Start 2021-11-14 18:11:32.754120:, crypto_listing
+INFO-2021-11-14 18:11:32,757: End 2021-11-14 18:11:32.757118:, crypto_listing
+INFO-2021-11-14 18:11:37,768: Starting  get_page 2021-11-14 18:11:37.768971:, /@coinbaseblog
+INFO-2021-11-14 18:11:45,241: End  get_page 2021-11-14 18:11:45.241583:, /@coinbaseblog
+INFO-2021-11-14 18:11:45,265: Start 2021-11-14 18:11:45.265566:, crypto_listing
+INFO-2021-11-14 18:11:45,269: End 2021-11-14 18:11:45.269566:, crypto_listing
+INFO-2021-11-14 18:11:50,281: Starting  get_page 2021-11-14 18:11:50.281477:, /@coinbaseblog
+INFO-2021-11-14 18:11:51,983: End  get_page 2021-11-14 18:11:51.983883:, /@coinbaseblog
+INFO-2021-11-14 18:11:52,008: Start 2021-11-14 18:11:52.008865:, crypto_listing
+INFO-2021-11-14 18:11:52,010: End 2021-11-14 18:11:52.010868:, crypto_listing
+INFO-2021-11-14 18:11:57,020: Starting  get_page 2021-11-14 18:11:57.020674:, /@coinbaseblog
+INFO-2021-11-14 18:11:59,340: End  get_page 2021-11-14 18:11:59.340845:, /@coinbaseblog
+INFO-2021-11-14 18:11:59,368: Start 2021-11-14 18:11:59.368830:, crypto_listing
+INFO-2021-11-14 18:11:59,370: End 2021-11-14 18:11:59.370826:, crypto_listing
+INFO-2021-11-14 18:12:04,386: Starting  get_page 2021-11-14 18:12:04.386268:, /@coinbaseblog
+INFO-2021-11-14 18:12:06,102: End  get_page 2021-11-14 18:12:06.102131:, /@coinbaseblog
+INFO-2021-11-14 18:12:06,125: Start 2021-11-14 18:12:06.125116:, crypto_listing
+INFO-2021-11-14 18:12:06,127: End 2021-11-14 18:12:06.127115:, crypto_listing
+INFO-2021-11-14 18:12:11,132: Starting  get_page 2021-11-14 18:12:11.132200:, /@coinbaseblog
+INFO-2021-11-14 18:12:13,251: End  get_page 2021-11-14 18:12:13.250239:, /@coinbaseblog
+INFO-2021-11-14 18:12:13,274: Start 2021-11-14 18:12:13.274225:, crypto_listing
+INFO-2021-11-14 18:12:13,276: End 2021-11-14 18:12:13.275223:, crypto_listing
+INFO-2021-11-14 18:12:18,283: Starting  get_page 2021-11-14 18:12:18.283237:, /@coinbaseblog
+INFO-2021-11-14 18:12:19,826: End  get_page 2021-11-14 18:12:19.826166:, /@coinbaseblog
+INFO-2021-11-14 18:12:19,850: Start 2021-11-14 18:12:19.850152:, crypto_listing
+INFO-2021-11-14 18:12:19,852: End 2021-11-14 18:12:19.852150:, crypto_listing
+INFO-2021-11-14 18:12:24,853: Starting  get_page 2021-11-14 18:12:24.853820:, /@coinbaseblog
+INFO-2021-11-14 18:12:26,221: End  get_page 2021-11-14 18:12:26.221792:, /@coinbaseblog
+INFO-2021-11-14 18:12:26,246: Start 2021-11-14 18:12:26.246776:, crypto_listing
+INFO-2021-11-14 18:12:26,248: End 2021-11-14 18:12:26.248774:, crypto_listing
+INFO-2021-11-14 18:12:31,263: Starting  get_page 2021-11-14 18:12:31.263873:, /@coinbaseblog
+INFO-2021-11-14 18:12:32,955: End  get_page 2021-11-14 18:12:32.955393:, /@coinbaseblog
+INFO-2021-11-14 18:12:32,977: Start 2021-11-14 18:12:32.977381:, crypto_listing
+INFO-2021-11-14 18:12:32,980: End 2021-11-14 18:12:32.980377:, crypto_listing
+INFO-2021-11-14 18:12:37,984: Starting  get_page 2021-11-14 18:12:37.984419:, /@coinbaseblog
+INFO-2021-11-14 18:12:39,468: End  get_page 2021-11-14 18:12:39.468621:, /@coinbaseblog
+INFO-2021-11-14 18:12:39,504: Start 2021-11-14 18:12:39.504604:, crypto_listing
+INFO-2021-11-14 18:12:39,507: End 2021-11-14 18:12:39.507598:, crypto_listing
+INFO-2021-11-14 18:12:44,521: Starting  get_page 2021-11-14 18:12:44.521222:, /@coinbaseblog
+INFO-2021-11-14 18:12:46,151: End  get_page 2021-11-14 18:12:46.151685:, /@coinbaseblog
+INFO-2021-11-14 18:12:46,181: Start 2021-11-14 18:12:46.180671:, crypto_listing
+INFO-2021-11-14 18:12:46,183: End 2021-11-14 18:12:46.183663:, crypto_listing
+INFO-2021-11-14 18:12:51,190: Starting  get_page 2021-11-14 18:12:51.190317:, /@coinbaseblog
+INFO-2021-11-14 18:12:52,592: End  get_page 2021-11-14 18:12:52.592909:, /@coinbaseblog
+INFO-2021-11-14 18:12:52,615: Start 2021-11-14 18:12:52.615895:, crypto_listing
+INFO-2021-11-14 18:12:52,617: End 2021-11-14 18:12:52.617892:, crypto_listing
+INFO-2021-11-14 18:12:57,621: Starting  get_page 2021-11-14 18:12:57.621648:, /@coinbaseblog
+INFO-2021-11-14 18:12:59,474: End  get_page 2021-11-14 18:12:59.474860:, /@coinbaseblog
+INFO-2021-11-14 18:12:59,498: Start 2021-11-14 18:12:59.498845:, crypto_listing
+INFO-2021-11-14 18:12:59,500: End 2021-11-14 18:12:59.500844:, crypto_listing
+INFO-2021-11-14 18:13:04,515: Starting  get_page 2021-11-14 18:13:04.515006:, /@coinbaseblog
+INFO-2021-11-14 18:13:05,866: End  get_page 2021-11-14 18:13:05.866753:, /@coinbaseblog
+INFO-2021-11-14 18:13:05,897: Start 2021-11-14 18:13:05.897734:, crypto_listing
+INFO-2021-11-14 18:13:05,899: End 2021-11-14 18:13:05.899733:, crypto_listing
+INFO-2021-11-14 18:13:10,912: Starting  get_page 2021-11-14 18:13:10.912062:, /@coinbaseblog
+INFO-2021-11-14 18:13:12,620: End  get_page 2021-11-14 18:13:12.620278:, /@coinbaseblog
+INFO-2021-11-14 18:13:12,642: Start 2021-11-14 18:13:12.642265:, crypto_listing
+INFO-2021-11-14 18:13:12,644: End 2021-11-14 18:13:12.644265:, crypto_listing
+INFO-2021-11-14 18:13:17,647: Starting  get_page 2021-11-14 18:13:17.647801:, /@coinbaseblog
+INFO-2021-11-14 18:13:19,758: End  get_page 2021-11-14 18:13:19.758309:, /@coinbaseblog
+INFO-2021-11-14 18:13:19,784: Start 2021-11-14 18:13:19.784293:, crypto_listing
+INFO-2021-11-14 18:13:19,786: End 2021-11-14 18:13:19.786292:, crypto_listing
+INFO-2021-11-14 18:13:24,801: Starting  get_page 2021-11-14 18:13:24.801327:, /@coinbaseblog
+INFO-2021-11-14 18:13:27,310: End  get_page 2021-11-14 18:13:27.310997:, /@coinbaseblog
+INFO-2021-11-14 18:13:27,340: Start 2021-11-14 18:13:27.340977:, crypto_listing
+INFO-2021-11-14 18:13:27,343: End 2021-11-14 18:13:27.343339:, crypto_listing
+INFO-2021-11-14 18:13:32,349: Starting  get_page 2021-11-14 18:13:32.349258:, /@coinbaseblog
+INFO-2021-11-14 18:13:33,797: End  get_page 2021-11-14 18:13:33.797774:, /@coinbaseblog
+INFO-2021-11-14 18:13:33,823: Start 2021-11-14 18:13:33.823758:, crypto_listing
+INFO-2021-11-14 18:13:33,825: End 2021-11-14 18:13:33.825760:, crypto_listing
+INFO-2021-11-14 18:13:38,841: Starting  get_page 2021-11-14 18:13:38.841410:, /@coinbaseblog
+INFO-2021-11-14 18:13:40,899: End  get_page 2021-11-14 18:13:40.899829:, /@coinbaseblog
+INFO-2021-11-14 18:13:40,927: Start 2021-11-14 18:13:40.927847:, crypto_listing
+INFO-2021-11-14 18:13:40,930: End 2021-11-14 18:13:40.930844:, crypto_listing
+INFO-2021-11-14 18:13:45,936: Starting  get_page 2021-11-14 18:13:45.936962:, /@coinbaseblog
+INFO-2021-11-14 18:13:47,594: End  get_page 2021-11-14 18:13:47.594686:, /@coinbaseblog
+INFO-2021-11-14 18:13:47,621: Start 2021-11-14 18:13:47.621677:, crypto_listing
+INFO-2021-11-14 18:13:47,623: End 2021-11-14 18:13:47.623457:, crypto_listing
+INFO-2021-11-14 18:13:52,626: Starting  get_page 2021-11-14 18:13:52.626839:, /@coinbaseblog
+INFO-2021-11-14 18:13:54,352: End  get_page 2021-11-14 18:13:54.352446:, /@coinbaseblog
+INFO-2021-11-14 18:13:54,381: Start 2021-11-14 18:13:54.381431:, crypto_listing
+INFO-2021-11-14 18:13:54,383: End 2021-11-14 18:13:54.383429:, crypto_listing
+INFO-2021-11-14 18:13:59,385: Starting  get_page 2021-11-14 18:13:59.385200:, /@coinbaseblog
+INFO-2021-11-14 18:14:01,491: End  get_page 2021-11-14 18:14:01.491281:, /@coinbaseblog
+INFO-2021-11-14 18:14:01,519: Start 2021-11-14 18:14:01.519269:, crypto_listing
+INFO-2021-11-14 18:14:01,522: End 2021-11-14 18:14:01.522261:, crypto_listing
+INFO-2021-11-14 18:14:06,533: Starting  get_page 2021-11-14 18:14:06.533766:, /@coinbaseblog
+INFO-2021-11-14 18:14:08,197: End  get_page 2021-11-14 18:14:08.197051:, /@coinbaseblog
+INFO-2021-11-14 18:14:08,220: Start 2021-11-14 18:14:08.220021:, crypto_listing
+INFO-2021-11-14 18:14:08,222: End 2021-11-14 18:14:08.222021:, crypto_listing
+INFO-2021-11-14 18:14:13,229: Starting  get_page 2021-11-14 18:14:13.229085:, /@coinbaseblog
+INFO-2021-11-14 18:14:14,627: End  get_page 2021-11-14 18:14:14.627548:, /@coinbaseblog
+INFO-2021-11-14 18:14:14,649: Start 2021-11-14 18:14:14.649534:, crypto_listing
+INFO-2021-11-14 18:14:14,653: End 2021-11-14 18:14:14.653532:, crypto_listing
+INFO-2021-11-14 18:14:19,661: Starting  get_page 2021-11-14 18:14:19.661644:, /@coinbaseblog
+INFO-2021-11-14 18:14:21,744: End  get_page 2021-11-14 18:14:21.744779:, /@coinbaseblog
+INFO-2021-11-14 18:14:21,770: Start 2021-11-14 18:14:21.770766:, crypto_listing
+INFO-2021-11-14 18:14:21,772: End 2021-11-14 18:14:21.772766:, crypto_listing
+INFO-2021-11-14 18:14:26,784: Starting  get_page 2021-11-14 18:14:26.784002:, /@coinbaseblog
+INFO-2021-11-14 18:14:28,238: End  get_page 2021-11-14 18:14:28.238919:, /@coinbaseblog
+INFO-2021-11-14 18:14:28,269: Start 2021-11-14 18:14:28.269955:, crypto_listing
+INFO-2021-11-14 18:14:28,272: End 2021-11-14 18:14:28.272953:, crypto_listing
+INFO-2021-11-14 18:14:33,284: Starting  get_page 2021-11-14 18:14:33.284714:, /@coinbaseblog
+INFO-2021-11-14 18:14:34,788: End  get_page 2021-11-14 18:14:34.788452:, /@coinbaseblog
+INFO-2021-11-14 18:14:34,816: Start 2021-11-14 18:14:34.816434:, crypto_listing
+INFO-2021-11-14 18:14:34,818: End 2021-11-14 18:14:34.818435:, crypto_listing
+INFO-2021-11-14 18:14:39,829: Starting  get_page 2021-11-14 18:14:39.829699:, /@coinbaseblog
+INFO-2021-11-14 18:14:41,032: End  get_page 2021-11-14 18:14:41.032531:, /@coinbaseblog
+INFO-2021-11-14 18:14:41,057: Start 2021-11-14 18:14:41.057514:, crypto_listing
+INFO-2021-11-14 18:14:41,060: End 2021-11-14 18:14:41.059514:, crypto_listing
+INFO-2021-11-14 18:14:46,061: Starting  get_page 2021-11-14 18:14:46.061705:, /@coinbaseblog
+INFO-2021-11-14 18:14:47,713: End  get_page 2021-11-14 18:14:47.713806:, /@coinbaseblog
+INFO-2021-11-14 18:14:47,739: Start 2021-11-14 18:14:47.739787:, crypto_listing
+INFO-2021-11-14 18:14:47,741: End 2021-11-14 18:14:47.741790:, crypto_listing
+INFO-2021-11-14 18:14:52,747: Starting  get_page 2021-11-14 18:14:52.747553:, /@coinbaseblog
+INFO-2021-11-14 18:14:54,089: End  get_page 2021-11-14 18:14:54.089680:, /@coinbaseblog
+INFO-2021-11-14 18:14:54,113: Start 2021-11-14 18:14:54.113662:, crypto_listing
+INFO-2021-11-14 18:14:54,115: End 2021-11-14 18:14:54.115665:, crypto_listing
+INFO-2021-11-14 18:14:59,131: Starting  get_page 2021-11-14 18:14:59.131871:, /@coinbaseblog
+INFO-2021-11-14 18:15:00,605: End  get_page 2021-11-14 18:15:00.605690:, /@coinbaseblog
+INFO-2021-11-14 18:15:00,628: Start 2021-11-14 18:15:00.628674:, crypto_listing
+INFO-2021-11-14 18:15:00,632: End 2021-11-14 18:15:00.632674:, crypto_listing
+INFO-2021-11-14 18:15:05,633: Starting  get_page 2021-11-14 18:15:05.633844:, /@coinbaseblog
+INFO-2021-11-14 18:15:07,575: End  get_page 2021-11-14 18:15:07.575548:, /@coinbaseblog
+INFO-2021-11-14 18:15:07,606: Start 2021-11-14 18:15:07.606530:, crypto_listing
+INFO-2021-11-14 18:15:07,610: End 2021-11-14 18:15:07.610527:, crypto_listing
+INFO-2021-11-14 18:15:12,618: Starting  get_page 2021-11-14 18:15:12.618345:, /@coinbaseblog
+INFO-2021-11-14 18:15:15,423: End  get_page 2021-11-14 18:15:15.423631:, /@coinbaseblog
+INFO-2021-11-14 18:15:15,482: Start 2021-11-14 18:15:15.482596:, crypto_listing
+INFO-2021-11-14 18:15:15,487: End 2021-11-14 18:15:15.487594:, crypto_listing
+INFO-2021-11-14 18:15:20,491: Starting  get_page 2021-11-14 18:15:20.491582:, /@coinbaseblog
+INFO-2021-11-14 18:15:22,202: End  get_page 2021-11-14 18:15:22.202537:, /@coinbaseblog
+INFO-2021-11-14 18:15:22,245: Start 2021-11-14 18:15:22.245512:, crypto_listing
+INFO-2021-11-14 18:15:22,248: End 2021-11-14 18:15:22.248509:, crypto_listing
+INFO-2021-11-14 18:15:27,254: Starting  get_page 2021-11-14 18:15:27.254451:, /@coinbaseblog
+INFO-2021-11-14 18:15:29,611: End  get_page 2021-11-14 18:15:29.611000:, /@coinbaseblog
+INFO-2021-11-14 18:15:29,659: Start 2021-11-14 18:15:29.659971:, crypto_listing
+INFO-2021-11-14 18:15:29,662: End 2021-11-14 18:15:29.662970:, crypto_listing
+INFO-2021-11-14 18:15:34,677: Starting  get_page 2021-11-14 18:15:34.677905:, /@coinbaseblog
+INFO-2021-11-14 18:15:36,215: End  get_page 2021-11-14 18:15:36.215965:, /@coinbaseblog
+INFO-2021-11-14 18:15:36,278: Start 2021-11-14 18:15:36.278927:, crypto_listing
+INFO-2021-11-14 18:15:36,282: End 2021-11-14 18:15:36.282926:, crypto_listing
+INFO-2021-11-14 18:15:41,286: Starting  get_page 2021-11-14 18:15:41.286027:, /@coinbaseblog
+INFO-2021-11-14 18:15:43,009: End  get_page 2021-11-14 18:15:43.009972:, /@coinbaseblog
+INFO-2021-11-14 18:15:43,061: Start 2021-11-14 18:15:43.061940:, crypto_listing
+INFO-2021-11-14 18:15:43,064: End 2021-11-14 18:15:43.064939:, crypto_listing
+INFO-2021-11-14 18:15:48,079: Starting  get_page 2021-11-14 18:15:48.079878:, /@coinbaseblog
+INFO-2021-11-14 18:15:51,403: End  get_page 2021-11-14 18:15:51.403846:, /@coinbaseblog
+INFO-2021-11-14 18:15:51,446: Start 2021-11-14 18:15:51.446822:, crypto_listing
+INFO-2021-11-14 18:15:51,449: End 2021-11-14 18:15:51.449821:, crypto_listing
+INFO-2021-11-14 18:15:56,461: Starting  get_page 2021-11-14 18:15:56.461878:, /@coinbaseblog
+INFO-2021-11-14 18:15:58,108: End  get_page 2021-11-14 18:15:58.108369:, /@coinbaseblog
+INFO-2021-11-14 18:15:58,156: Start 2021-11-14 18:15:58.155340:, crypto_listing
+INFO-2021-11-14 18:15:58,158: End 2021-11-14 18:15:58.158338:, crypto_listing
+INFO-2021-11-14 18:16:03,163: Starting  get_page 2021-11-14 18:16:03.163280:, /@coinbaseblog
+INFO-2021-11-14 18:16:05,688: End  get_page 2021-11-14 18:16:05.688738:, /@coinbaseblog
+INFO-2021-11-14 18:16:05,741: Start 2021-11-14 18:16:05.741707:, crypto_listing
+INFO-2021-11-14 18:16:05,744: End 2021-11-14 18:16:05.744704:, crypto_listing
+INFO-2021-11-14 18:16:10,756: Starting  get_page 2021-11-14 18:16:10.756642:, /@coinbaseblog
+INFO-2021-11-14 18:16:13,231: End  get_page 2021-11-14 18:16:13.231460:, /@coinbaseblog
+INFO-2021-11-14 18:16:13,274: Start 2021-11-14 18:16:13.274434:, crypto_listing
+INFO-2021-11-14 18:16:13,277: End 2021-11-14 18:16:13.276435:, crypto_listing
+INFO-2021-11-14 18:16:18,292: Starting  get_page 2021-11-14 18:16:18.292311:, /@coinbaseblog
+INFO-2021-11-14 18:16:19,901: End  get_page 2021-11-14 18:16:19.901329:, /@coinbaseblog
+INFO-2021-11-14 18:16:19,948: Start 2021-11-14 18:16:19.948298:, crypto_listing
+INFO-2021-11-14 18:16:19,953: End 2021-11-14 18:16:19.952296:, crypto_listing
+INFO-2021-11-14 18:16:24,962: Starting  get_page 2021-11-14 18:16:24.962026:, /@coinbaseblog
+INFO-2021-11-14 18:16:26,357: End  get_page 2021-11-14 18:16:26.356930:, /@coinbaseblog
+INFO-2021-11-14 18:16:26,402: Start 2021-11-14 18:16:26.402902:, crypto_listing
+INFO-2021-11-14 18:16:26,404: End 2021-11-14 18:16:26.404903:, crypto_listing
+INFO-2021-11-14 18:16:31,413: Starting  get_page 2021-11-14 18:16:31.413408:, /@coinbaseblog
+INFO-2021-11-14 18:16:33,732: End  get_page 2021-11-14 18:16:33.732730:, /@coinbaseblog
+INFO-2021-11-14 18:16:33,781: Start 2021-11-14 18:16:33.781699:, crypto_listing
+INFO-2021-11-14 18:16:33,785: End 2021-11-14 18:16:33.785698:, crypto_listing
+INFO-2021-11-14 18:16:38,788: Starting  get_page 2021-11-14 18:16:38.788107:, /@coinbaseblog
+INFO-2021-11-14 18:16:40,588: End  get_page 2021-11-14 18:16:40.587009:, /@coinbaseblog
+INFO-2021-11-14 18:16:40,628: Start 2021-11-14 18:16:40.628984:, crypto_listing
+INFO-2021-11-14 18:16:40,631: End 2021-11-14 18:16:40.631982:, crypto_listing
+INFO-2021-11-14 18:16:45,648: Starting  get_page 2021-11-14 18:16:45.648628:, /@coinbaseblog
+INFO-2021-11-14 18:16:47,535: End  get_page 2021-11-14 18:16:47.535285:, /@coinbaseblog
+INFO-2021-11-14 18:16:47,574: Start 2021-11-14 18:16:47.574260:, crypto_listing
+INFO-2021-11-14 18:16:47,577: End 2021-11-14 18:16:47.577260:, crypto_listing
+INFO-2021-11-14 18:16:52,586: Starting  get_page 2021-11-14 18:16:52.586251:, /@coinbaseblog
+INFO-2021-11-14 18:16:54,138: End  get_page 2021-11-14 18:16:54.138122:, /@coinbaseblog
+INFO-2021-11-14 18:16:54,176: Start 2021-11-14 18:16:54.176099:, crypto_listing
+INFO-2021-11-14 18:16:54,178: End 2021-11-14 18:16:54.178098:, crypto_listing
+INFO-2021-11-14 18:16:59,194: Starting  get_page 2021-11-14 18:16:59.194602:, /@coinbaseblog
+INFO-2021-11-14 18:17:00,451: End  get_page 2021-11-14 18:17:00.451816:, /@coinbaseblog
+INFO-2021-11-14 18:17:00,489: Start 2021-11-14 18:17:00.489793:, crypto_listing
+INFO-2021-11-14 18:17:00,491: End 2021-11-14 18:17:00.491791:, crypto_listing
+INFO-2021-11-14 18:17:05,496: Starting  get_page 2021-11-14 18:17:05.496419:, /@coinbaseblog
+INFO-2021-11-14 18:17:07,167: End  get_page 2021-11-14 18:17:07.166659:, /@coinbaseblog
+INFO-2021-11-14 18:17:07,209: Start 2021-11-14 18:17:07.208636:, crypto_listing
+INFO-2021-11-14 18:17:07,211: End 2021-11-14 18:17:07.211633:, crypto_listing
+INFO-2021-11-14 18:17:12,225: Starting  get_page 2021-11-14 18:17:12.225816:, /@coinbaseblog
+INFO-2021-11-14 18:17:13,546: End  get_page 2021-11-14 18:17:13.546418:, /@coinbaseblog
+INFO-2021-11-14 18:17:13,584: Start 2021-11-14 18:17:13.584397:, crypto_listing
+INFO-2021-11-14 18:17:13,587: End 2021-11-14 18:17:13.587394:, crypto_listing
+INFO-2021-11-14 18:17:18,601: Starting  get_page 2021-11-14 18:17:18.601676:, /@coinbaseblog
+INFO-2021-11-14 18:17:20,588: End  get_page 2021-11-14 18:17:20.588463:, /@coinbaseblog
+INFO-2021-11-14 18:17:20,631: Start 2021-11-14 18:17:20.631439:, crypto_listing
+INFO-2021-11-14 18:17:20,633: End 2021-11-14 18:17:20.633438:, crypto_listing
+INFO-2021-11-14 18:17:25,647: Starting  get_page 2021-11-14 18:17:25.647803:, /@coinbaseblog
+INFO-2021-11-14 18:17:27,585: End  get_page 2021-11-14 18:17:27.585621:, /@coinbaseblog
+INFO-2021-11-14 18:17:27,625: Start 2021-11-14 18:17:27.625595:, crypto_listing
+INFO-2021-11-14 18:17:27,627: End 2021-11-14 18:17:27.627596:, crypto_listing
+INFO-2021-11-14 18:17:32,631: Starting  get_page 2021-11-14 18:17:32.631782:, /@coinbaseblog
+INFO-2021-11-14 18:17:34,258: End  get_page 2021-11-14 18:17:34.258032:, /@coinbaseblog
+INFO-2021-11-14 18:17:34,286: Start 2021-11-14 18:17:34.286015:, crypto_listing
+INFO-2021-11-14 18:17:34,288: End 2021-11-14 18:17:34.288014:, crypto_listing
+INFO-2021-11-14 18:17:39,289: Starting  get_page 2021-11-14 18:17:39.289291:, /@coinbaseblog
+INFO-2021-11-14 18:17:41,654: End  get_page 2021-11-14 18:17:41.654136:, /@coinbaseblog
+INFO-2021-11-14 18:17:41,682: Start 2021-11-14 18:17:41.682121:, crypto_listing
+INFO-2021-11-14 18:17:41,684: End 2021-11-14 18:17:41.684119:, crypto_listing
+INFO-2021-11-14 18:17:46,685: Starting  get_page 2021-11-14 18:17:46.685783:, /@coinbaseblog
+INFO-2021-11-14 18:17:48,092: End  get_page 2021-11-14 18:17:48.092130:, /@coinbaseblog
+INFO-2021-11-14 18:17:48,121: Start 2021-11-14 18:17:48.121110:, crypto_listing
+INFO-2021-11-14 18:17:48,123: End 2021-11-14 18:17:48.123110:, crypto_listing
+INFO-2021-11-14 18:17:53,131: Starting  get_page 2021-11-14 18:17:53.131458:, /@coinbaseblog
+INFO-2021-11-14 18:17:56,045: End  get_page 2021-11-14 18:17:56.044132:, /@coinbaseblog
+INFO-2021-11-14 18:17:56,084: Start 2021-11-14 18:17:56.083108:, crypto_listing
+INFO-2021-11-14 18:17:56,086: End 2021-11-14 18:17:56.086107:, crypto_listing
+INFO-2021-11-14 18:18:01,100: Starting  get_page 2021-11-14 18:18:01.100563:, /@coinbaseblog
+INFO-2021-11-14 18:18:03,328: End  get_page 2021-11-14 18:18:03.328087:, /@coinbaseblog
+INFO-2021-11-14 18:18:03,362: Start 2021-11-14 18:18:03.362066:, crypto_listing
+INFO-2021-11-14 18:18:03,365: End 2021-11-14 18:18:03.365066:, crypto_listing
+INFO-2021-11-14 18:18:08,372: Starting  get_page 2021-11-14 18:18:08.372732:, /@coinbaseblog
+INFO-2021-11-14 18:18:10,288: End  get_page 2021-11-14 18:18:10.288777:, /@coinbaseblog
+INFO-2021-11-14 18:18:10,312: Start 2021-11-14 18:18:10.312765:, crypto_listing
+INFO-2021-11-14 18:18:10,315: End 2021-11-14 18:18:10.315761:, crypto_listing
+INFO-2021-11-14 18:18:15,325: Starting  get_page 2021-11-14 18:18:15.325215:, /@coinbaseblog
+INFO-2021-11-14 18:18:17,020: End  get_page 2021-11-14 18:18:17.020579:, /@coinbaseblog
+INFO-2021-11-14 18:18:17,045: Start 2021-11-14 18:18:17.045562:, crypto_listing
+INFO-2021-11-14 18:18:17,048: End 2021-11-14 18:18:17.048559:, crypto_listing
+INFO-2021-11-14 18:18:22,058: Starting  get_page 2021-11-14 18:18:22.058362:, /@coinbaseblog
+INFO-2021-11-14 18:18:23,845: End  get_page 2021-11-14 18:18:23.845287:, /@coinbaseblog
+INFO-2021-11-14 18:18:23,875: Start 2021-11-14 18:18:23.875266:, crypto_listing
+INFO-2021-11-14 18:18:23,877: End 2021-11-14 18:18:23.877266:, crypto_listing
+INFO-2021-11-14 18:18:28,889: Starting  get_page 2021-11-14 18:18:28.889506:, /@coinbaseblog
+INFO-2021-11-14 18:18:30,854: End  get_page 2021-11-14 18:18:30.854326:, /@coinbaseblog
+INFO-2021-11-14 18:18:30,881: Start 2021-11-14 18:18:30.881921:, crypto_listing
+INFO-2021-11-14 18:18:30,883: End 2021-11-14 18:18:30.883920:, crypto_listing
+INFO-2021-11-14 18:18:35,885: Starting  get_page 2021-11-14 18:18:35.885589:, /@coinbaseblog
+INFO-2021-11-14 18:18:37,423: End  get_page 2021-11-14 18:18:37.423656:, /@coinbaseblog
+INFO-2021-11-14 18:18:37,447: Start 2021-11-14 18:18:37.447641:, crypto_listing
+INFO-2021-11-14 18:18:37,449: End 2021-11-14 18:18:37.449645:, crypto_listing
+INFO-2021-11-14 18:18:42,464: Starting  get_page 2021-11-14 18:18:42.464321:, /@coinbaseblog
+INFO-2021-11-14 18:18:44,964: End  get_page 2021-11-14 18:18:44.964375:, /@coinbaseblog
+INFO-2021-11-14 18:18:44,987: Start 2021-11-14 18:18:44.987361:, crypto_listing
+INFO-2021-11-14 18:18:44,991: End 2021-11-14 18:18:44.991361:, crypto_listing
+INFO-2021-11-14 18:18:50,000: Starting  get_page 2021-11-14 18:18:50.000548:, /@coinbaseblog
+INFO-2021-11-14 18:18:52,207: End  get_page 2021-11-14 18:18:52.206863:, /@coinbaseblog
+INFO-2021-11-14 18:18:52,237: Start 2021-11-14 18:18:52.237844:, crypto_listing
+INFO-2021-11-14 18:18:52,239: End 2021-11-14 18:18:52.239842:, crypto_listing
+INFO-2021-11-14 18:18:57,248: Starting  get_page 2021-11-14 18:18:57.248320:, /@coinbaseblog
+INFO-2021-11-14 18:18:59,123: End  get_page 2021-11-14 18:18:59.123305:, /@coinbaseblog
+INFO-2021-11-14 18:18:59,150: Start 2021-11-14 18:18:59.150290:, crypto_listing
+INFO-2021-11-14 18:18:59,152: End 2021-11-14 18:18:59.152291:, crypto_listing
+INFO-2021-11-14 18:19:04,162: Starting  get_page 2021-11-14 18:19:04.162022:, /@coinbaseblog
+INFO-2021-11-14 18:19:05,580: End  get_page 2021-11-14 18:19:05.580591:, /@coinbaseblog
+INFO-2021-11-14 18:19:05,609: Start 2021-11-14 18:19:05.609572:, crypto_listing
+INFO-2021-11-14 18:19:05,611: End 2021-11-14 18:19:05.611016:, crypto_listing
+INFO-2021-11-14 18:19:10,619: Starting  get_page 2021-11-14 18:19:10.619516:, /@coinbaseblog
+INFO-2021-11-14 18:19:12,388: End  get_page 2021-11-14 18:19:12.388357:, /@coinbaseblog
+INFO-2021-11-14 18:19:12,419: Start 2021-11-14 18:19:12.419339:, crypto_listing
+INFO-2021-11-14 18:19:12,423: End 2021-11-14 18:19:12.423337:, crypto_listing
+INFO-2021-11-14 18:19:17,431: Starting  get_page 2021-11-14 18:19:17.431537:, /@coinbaseblog
+INFO-2021-11-14 18:19:19,114: End  get_page 2021-11-14 18:19:19.114766:, /@coinbaseblog
+INFO-2021-11-14 18:19:19,138: Start 2021-11-14 18:19:19.138754:, crypto_listing
+INFO-2021-11-14 18:19:19,143: End 2021-11-14 18:19:19.143749:, crypto_listing
+INFO-2021-11-14 18:19:24,145: Starting  get_page 2021-11-14 18:19:24.145423:, /@coinbaseblog
+INFO-2021-11-14 18:19:25,446: End  get_page 2021-11-14 18:19:25.446394:, /@coinbaseblog
+INFO-2021-11-14 18:19:25,472: Start 2021-11-14 18:19:25.472378:, crypto_listing
+INFO-2021-11-14 18:19:25,474: End 2021-11-14 18:19:25.474376:, crypto_listing
+INFO-2021-11-14 18:19:30,483: Starting  get_page 2021-11-14 18:19:30.483699:, /@coinbaseblog
+INFO-2021-11-14 18:19:32,200: End  get_page 2021-11-14 18:19:32.200003:, /@coinbaseblog
+INFO-2021-11-14 18:19:32,222: Start 2021-11-14 18:19:32.222989:, crypto_listing
+INFO-2021-11-14 18:19:32,225: End 2021-11-14 18:19:32.225987:, crypto_listing
+INFO-2021-11-14 18:19:37,232: Starting  get_page 2021-11-14 18:19:37.232417:, /@coinbaseblog
+INFO-2021-11-14 18:19:38,669: End  get_page 2021-11-14 18:19:38.669461:, /@coinbaseblog
+INFO-2021-11-14 18:19:38,690: Start 2021-11-14 18:19:38.690448:, crypto_listing
+INFO-2021-11-14 18:19:38,692: End 2021-11-14 18:19:38.692449:, crypto_listing
+INFO-2021-11-14 18:19:43,705: Starting  get_page 2021-11-14 18:19:43.705782:, /@coinbaseblog
+INFO-2021-11-14 18:19:45,230: End  get_page 2021-11-14 18:19:45.230494:, /@coinbaseblog
+INFO-2021-11-14 18:19:45,254: Start 2021-11-14 18:19:45.254479:, crypto_listing
+INFO-2021-11-14 18:19:45,259: End 2021-11-14 18:19:45.259476:, crypto_listing
+INFO-2021-11-14 18:19:50,265: Starting  get_page 2021-11-14 18:19:50.265452:, /@coinbaseblog
+INFO-2021-11-14 18:19:52,060: End  get_page 2021-11-14 18:19:52.060763:, /@coinbaseblog
+INFO-2021-11-14 18:19:52,091: Start 2021-11-14 18:19:52.091746:, crypto_listing
+INFO-2021-11-14 18:19:52,093: End 2021-11-14 18:19:52.093742:, crypto_listing
+INFO-2021-11-14 18:19:57,095: Starting  get_page 2021-11-14 18:19:57.095606:, /@coinbaseblog
+INFO-2021-11-14 18:19:58,477: End  get_page 2021-11-14 18:19:58.477725:, /@coinbaseblog
+INFO-2021-11-14 18:19:58,502: Start 2021-11-14 18:19:58.502051:, crypto_listing
+INFO-2021-11-14 18:19:58,504: End 2021-11-14 18:19:58.504050:, crypto_listing
+INFO-2021-11-14 18:20:03,517: Starting  get_page 2021-11-14 18:20:03.517566:, /@coinbaseblog
+INFO-2021-11-14 18:20:05,719: End  get_page 2021-11-14 18:20:05.719513:, /@coinbaseblog
+INFO-2021-11-14 18:20:05,743: Start 2021-11-14 18:20:05.743497:, crypto_listing
+INFO-2021-11-14 18:20:05,744: End 2021-11-14 18:20:05.744498:, crypto_listing
+INFO-2021-11-14 18:20:10,758: Starting  get_page 2021-11-14 18:20:10.758080:, /@coinbaseblog
+INFO-2021-11-14 18:20:13,230: End  get_page 2021-11-14 18:20:13.230264:, /@coinbaseblog
+INFO-2021-11-14 18:20:13,268: Start 2021-11-14 18:20:13.268240:, crypto_listing
+INFO-2021-11-14 18:20:13,270: End 2021-11-14 18:20:13.270239:, crypto_listing
+INFO-2021-11-14 18:20:18,272: Starting  get_page 2021-11-14 18:20:18.272042:, /@coinbaseblog
+INFO-2021-11-14 18:20:20,314: End  get_page 2021-11-14 18:20:20.314000:, /@coinbaseblog
+INFO-2021-11-14 18:20:20,346: Start 2021-11-14 18:20:20.346985:, crypto_listing
+INFO-2021-11-14 18:20:20,349: End 2021-11-14 18:20:20.348978:, crypto_listing
+INFO-2021-11-14 18:20:25,350: Starting  get_page 2021-11-14 18:20:25.350121:, /@coinbaseblog
+INFO-2021-11-14 18:20:26,889: End  get_page 2021-11-14 18:20:26.889026:, /@coinbaseblog
+INFO-2021-11-14 18:20:26,926: Start 2021-11-14 18:20:26.926004:, crypto_listing
+INFO-2021-11-14 18:20:26,928: End 2021-11-14 18:20:26.928004:, crypto_listing
+INFO-2021-11-14 18:20:31,937: Starting  get_page 2021-11-14 18:20:31.937334:, /@coinbaseblog
+INFO-2021-11-14 18:20:33,278: End  get_page 2021-11-14 18:20:33.278195:, /@coinbaseblog
+INFO-2021-11-14 18:20:33,302: Start 2021-11-14 18:20:33.302179:, crypto_listing
+INFO-2021-11-14 18:20:33,304: End 2021-11-14 18:20:33.304178:, crypto_listing
+INFO-2021-11-14 18:20:38,315: Starting  get_page 2021-11-14 18:20:38.315256:, /@coinbaseblog
+INFO-2021-11-14 18:20:39,881: End  get_page 2021-11-14 18:20:39.881020:, /@coinbaseblog
+INFO-2021-11-14 18:20:39,911: Start 2021-11-14 18:20:39.911003:, crypto_listing
+INFO-2021-11-14 18:20:39,913: End 2021-11-14 18:20:39.913002:, crypto_listing
+INFO-2021-11-14 18:20:44,917: Starting  get_page 2021-11-14 18:20:44.917519:, /@coinbaseblog
+INFO-2021-11-14 18:20:47,583: End  get_page 2021-11-14 18:20:47.583768:, /@coinbaseblog
+INFO-2021-11-14 18:20:47,608: Start 2021-11-14 18:20:47.608753:, crypto_listing
+INFO-2021-11-14 18:20:47,611: End 2021-11-14 18:20:47.611750:, crypto_listing
+INFO-2021-11-14 18:20:52,622: Starting  get_page 2021-11-14 18:20:52.622576:, /@coinbaseblog
+INFO-2021-11-14 18:20:55,113: End  get_page 2021-11-14 18:20:55.113545:, /@coinbaseblog
+INFO-2021-11-14 18:20:55,131: Start 2021-11-14 18:20:55.131533:, crypto_listing
+INFO-2021-11-14 18:20:55,133: End 2021-11-14 18:20:55.133531:, crypto_listing
+INFO-2021-11-14 18:21:00,142: Starting  get_page 2021-11-14 18:21:00.142282:, /@coinbaseblog
+INFO-2021-11-14 18:21:01,887: End  get_page 2021-11-14 18:21:01.887815:, /@coinbaseblog
+INFO-2021-11-14 18:21:01,917: Start 2021-11-14 18:21:01.917794:, crypto_listing
+INFO-2021-11-14 18:21:01,919: End 2021-11-14 18:21:01.919795:, crypto_listing
+INFO-2021-11-14 18:21:06,926: Starting  get_page 2021-11-14 18:21:06.926908:, /@coinbaseblog
+INFO-2021-11-14 18:21:08,768: End  get_page 2021-11-14 18:21:08.768714:, /@coinbaseblog
+INFO-2021-11-14 18:21:08,799: Start 2021-11-14 18:21:08.798696:, crypto_listing
+INFO-2021-11-14 18:21:08,801: End 2021-11-14 18:21:08.801692:, crypto_listing
+INFO-2021-11-14 18:21:13,813: Starting  get_page 2021-11-14 18:21:13.813705:, /@coinbaseblog
+INFO-2021-11-14 18:21:15,584: End  get_page 2021-11-14 18:21:15.584426:, /@coinbaseblog
+INFO-2021-11-14 18:21:15,607: Start 2021-11-14 18:21:15.607413:, crypto_listing
+INFO-2021-11-14 18:21:15,609: End 2021-11-14 18:21:15.609410:, crypto_listing
+INFO-2021-11-14 18:21:20,610: Starting  get_page 2021-11-14 18:21:20.610667:, /@coinbaseblog
+INFO-2021-11-14 18:21:22,775: End  get_page 2021-11-14 18:21:22.775714:, /@coinbaseblog
+INFO-2021-11-14 18:21:22,798: Start 2021-11-14 18:21:22.798698:, crypto_listing
+INFO-2021-11-14 18:21:22,801: End 2021-11-14 18:21:22.801063:, crypto_listing
+INFO-2021-11-14 18:21:27,815: Starting  get_page 2021-11-14 18:21:27.815018:, /@coinbaseblog
+INFO-2021-11-14 18:21:29,278: End  get_page 2021-11-14 18:21:29.278646:, /@coinbaseblog
+INFO-2021-11-14 18:21:29,303: Start 2021-11-14 18:21:29.303629:, crypto_listing
+INFO-2021-11-14 18:21:29,305: End 2021-11-14 18:21:29.305628:, crypto_listing
+INFO-2021-11-14 18:21:34,312: Starting  get_page 2021-11-14 18:21:34.312218:, /@coinbaseblog
+INFO-2021-11-14 18:21:42,203: End  get_page 2021-11-14 18:21:42.203389:, /@coinbaseblog
+INFO-2021-11-14 18:21:42,228: Start 2021-11-14 18:21:42.228374:, crypto_listing
+INFO-2021-11-14 18:21:42,230: End 2021-11-14 18:21:42.230374:, crypto_listing
+INFO-2021-11-14 18:21:47,236: Starting  get_page 2021-11-14 18:21:47.236420:, /@coinbaseblog
+INFO-2021-11-14 18:21:50,496: End  get_page 2021-11-14 18:21:50.496608:, /@coinbaseblog
+INFO-2021-11-14 18:21:50,523: Start 2021-11-14 18:21:50.523436:, crypto_listing
+INFO-2021-11-14 18:21:50,526: End 2021-11-14 18:21:50.526434:, crypto_listing
+INFO-2021-11-14 18:21:55,531: Starting  get_page 2021-11-14 18:21:55.531863:, /@coinbaseblog
+INFO-2021-11-14 18:21:57,163: End  get_page 2021-11-14 18:21:57.163585:, /@coinbaseblog
+INFO-2021-11-14 18:21:57,190: Start 2021-11-14 18:21:57.190662:, crypto_listing
+INFO-2021-11-14 18:21:57,192: End 2021-11-14 18:21:57.192657:, crypto_listing
+INFO-2021-11-14 18:22:02,194: Starting  get_page 2021-11-14 18:22:02.194455:, /@coinbaseblog
+INFO-2021-11-14 18:22:03,578: End  get_page 2021-11-14 18:22:03.578278:, /@coinbaseblog
+INFO-2021-11-14 18:22:03,605: Start 2021-11-14 18:22:03.605639:, crypto_listing
+INFO-2021-11-14 18:22:03,608: End 2021-11-14 18:22:03.608640:, crypto_listing
+INFO-2021-11-14 18:22:08,624: Starting  get_page 2021-11-14 18:22:08.624387:, /@coinbaseblog
+INFO-2021-11-14 18:22:12,071: End  get_page 2021-11-14 18:22:12.071419:, /@coinbaseblog
+INFO-2021-11-14 18:22:12,096: Start 2021-11-14 18:22:12.095405:, crypto_listing
+INFO-2021-11-14 18:22:12,098: End 2021-11-14 18:22:12.098402:, crypto_listing
+INFO-2021-11-14 18:22:17,113: Starting  get_page 2021-11-14 18:22:17.113207:, /@coinbaseblog
+INFO-2021-11-14 18:22:18,364: End  get_page 2021-11-14 18:22:18.364388:, /@coinbaseblog
+INFO-2021-11-14 18:22:18,391: Start 2021-11-14 18:22:18.391262:, crypto_listing
+INFO-2021-11-14 18:22:18,392: End 2021-11-14 18:22:18.392906:, crypto_listing
+INFO-2021-11-14 18:22:23,404: Starting  get_page 2021-11-14 18:22:23.404960:, /@coinbaseblog
+INFO-2021-11-14 18:22:25,641: End  get_page 2021-11-14 18:22:25.641130:, /@coinbaseblog
+INFO-2021-11-14 18:22:25,667: Start 2021-11-14 18:22:25.667114:, crypto_listing
+INFO-2021-11-14 18:22:25,669: End 2021-11-14 18:22:25.669114:, crypto_listing
+INFO-2021-11-14 18:22:30,672: Starting  get_page 2021-11-14 18:22:30.672302:, /@coinbaseblog
+INFO-2021-11-14 18:22:33,651: End  get_page 2021-11-14 18:22:33.651781:, /@coinbaseblog
+INFO-2021-11-14 18:22:33,681: Start 2021-11-14 18:22:33.681764:, crypto_listing
+INFO-2021-11-14 18:22:33,683: End 2021-11-14 18:22:33.683085:, crypto_listing
+INFO-2021-11-14 18:22:38,698: Starting  get_page 2021-11-14 18:22:38.698924:, /@coinbaseblog
+INFO-2021-11-14 18:22:40,109: End  get_page 2021-11-14 18:22:40.109131:, /@coinbaseblog
+INFO-2021-11-14 18:22:40,132: Start 2021-11-14 18:22:40.132878:, crypto_listing
+INFO-2021-11-14 18:22:40,134: End 2021-11-14 18:22:40.134873:, crypto_listing
+INFO-2021-11-14 18:22:45,136: Starting  get_page 2021-11-14 18:22:45.136245:, /@coinbaseblog
+INFO-2021-11-14 18:22:46,594: End  get_page 2021-11-14 18:22:46.594177:, /@coinbaseblog
+INFO-2021-11-14 18:22:46,619: Start 2021-11-14 18:22:46.619162:, crypto_listing
+INFO-2021-11-14 18:22:46,621: End 2021-11-14 18:22:46.621161:, crypto_listing
+INFO-2021-11-14 18:22:51,633: Starting  get_page 2021-11-14 18:22:51.633818:, /@coinbaseblog
+INFO-2021-11-14 18:22:53,244: End  get_page 2021-11-14 18:22:53.244543:, /@coinbaseblog
+INFO-2021-11-14 18:22:53,267: Start 2021-11-14 18:22:53.266528:, crypto_listing
+INFO-2021-11-14 18:22:53,270: End 2021-11-14 18:22:53.270528:, crypto_listing
+INFO-2021-11-14 18:22:58,279: Starting  get_page 2021-11-14 18:22:58.279128:, /@coinbaseblog
+INFO-2021-11-14 18:23:01,089: End  get_page 2021-11-14 18:23:01.089156:, /@coinbaseblog
+INFO-2021-11-14 18:23:01,122: Start 2021-11-14 18:23:01.122135:, crypto_listing
+INFO-2021-11-14 18:23:01,126: End 2021-11-14 18:23:01.125135:, crypto_listing
+INFO-2021-11-14 18:23:06,140: Starting  get_page 2021-11-14 18:23:06.140658:, /@coinbaseblog
+INFO-2021-11-14 18:23:07,658: End  get_page 2021-11-14 18:23:07.658843:, /@coinbaseblog
+INFO-2021-11-14 18:23:07,685: Start 2021-11-14 18:23:07.685823:, crypto_listing
+INFO-2021-11-14 18:23:07,688: End 2021-11-14 18:23:07.688823:, crypto_listing
+INFO-2021-11-14 18:23:12,693: Starting  get_page 2021-11-14 18:23:12.693716:, /@coinbaseblog
+INFO-2021-11-14 18:23:15,436: End  get_page 2021-11-14 18:23:15.436214:, /@coinbaseblog
+INFO-2021-11-14 18:23:15,463: Start 2021-11-14 18:23:15.463198:, crypto_listing
+INFO-2021-11-14 18:23:15,465: End 2021-11-14 18:23:15.465197:, crypto_listing
+INFO-2021-11-14 18:23:20,471: Starting  get_page 2021-11-14 18:23:20.471858:, /@coinbaseblog
+INFO-2021-11-14 18:23:21,998: End  get_page 2021-11-14 18:23:21.998247:, /@coinbaseblog
+INFO-2021-11-14 18:23:22,026: Start 2021-11-14 18:23:22.026229:, crypto_listing
+INFO-2021-11-14 18:23:22,028: End 2021-11-14 18:23:22.028222:, crypto_listing
+INFO-2021-11-14 18:23:27,044: Starting  get_page 2021-11-14 18:23:27.044031:, /@coinbaseblog
+INFO-2021-11-14 18:23:28,945: End  get_page 2021-11-14 18:23:28.945815:, /@coinbaseblog
+INFO-2021-11-14 18:23:28,972: Start 2021-11-14 18:23:28.972798:, crypto_listing
+INFO-2021-11-14 18:23:28,974: End 2021-11-14 18:23:28.974798:, crypto_listing
+INFO-2021-11-14 18:23:33,990: Starting  get_page 2021-11-14 18:23:33.990496:, /@coinbaseblog
+INFO-2021-11-14 18:23:35,255: Exit by user 2021-11-14 18:23:35.255083

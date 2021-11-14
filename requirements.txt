@@ -11,8 +11,6 @@ lazy-object-proxy==1.6.0
 lxml==4.6.3
 marshmallow==3.14.0
 mccabe==0.6.1
-numpy==1.19.5
-pkg-resources==0.0.0
 platformdirs==2.4.0
 pylint==2.11.1
 python-dateutil==2.8.2
