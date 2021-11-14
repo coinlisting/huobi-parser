@@ -3,7 +3,7 @@ services:
 
   news_cryptobot:
     restart: always
-    container_name: news_cryptobot
+    container_name: coinbase_parser
     build:
       dockerfile: Dockerfile
       context: .
