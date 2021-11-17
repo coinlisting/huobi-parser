@@ -23458,3 +23458,93 @@ INFO-2021-11-17 18:02:37,656: Starting  get_page 2021-11-17 18:02:37.656222:, /@
 INFO-2021-11-17 18:02:38,971: End get_page 2021-11-17 18:02:38.971676:, /@coinbaseblog
 INFO-2021-11-17 18:02:39,000: Start 2021-11-17 18:02:39.000740:, coinbase_listing
 INFO-2021-11-17 18:02:39,009: End 2021-11-17 18:02:39.009665:, coinbase_listing
+INFO-2021-11-17 18:02:49,018: Starting  get_page 2021-11-17 18:02:49.018364:, /@coinbaseblog
+INFO-2021-11-17 18:02:50,365: End get_page 2021-11-17 18:02:50.365130:, /@coinbaseblog
+INFO-2021-11-17 18:02:50,380: Start 2021-11-17 18:02:50.380227:, coinbase_listing
+INFO-2021-11-17 18:02:50,394: End 2021-11-17 18:02:50.394060:, coinbase_listing
+INFO-2021-11-17 18:03:00,400: Starting  get_page 2021-11-17 18:03:00.400070:, /@coinbaseblog
+INFO-2021-11-17 18:03:02,122: End get_page 2021-11-17 18:03:02.122825:, /@coinbaseblog
+INFO-2021-11-17 18:03:02,134: Start 2021-11-17 18:03:02.134338:, coinbase_listing
+INFO-2021-11-17 18:03:02,149: End 2021-11-17 18:03:02.149691:, coinbase_listing
+INFO-2021-11-17 18:03:12,154: Starting  get_page 2021-11-17 18:03:12.154175:, /@coinbaseblog
+INFO-2021-11-17 18:03:13,875: End get_page 2021-11-17 18:03:13.875837:, /@coinbaseblog
+INFO-2021-11-17 18:03:13,908: Start 2021-11-17 18:03:13.908553:, coinbase_listing
+INFO-2021-11-17 18:03:13,911: End 2021-11-17 18:03:13.911075:, coinbase_listing
+INFO-2021-11-17 18:03:23,922: Starting  get_page 2021-11-17 18:03:23.922676:, /@coinbaseblog
+INFO-2021-11-17 18:03:25,733: End get_page 2021-11-17 18:03:25.732218:, /@coinbaseblog
+INFO-2021-11-17 18:03:25,750: Start 2021-11-17 18:03:25.750205:, coinbase_listing
+INFO-2021-11-17 18:03:25,752: End 2021-11-17 18:03:25.752205:, coinbase_listing
+INFO-2021-11-17 18:03:35,753: Starting  get_page 2021-11-17 18:03:35.753541:, /@coinbaseblog
+INFO-2021-11-17 18:03:37,398: End get_page 2021-11-17 18:03:37.398150:, /@coinbaseblog
+INFO-2021-11-17 18:03:37,412: Start 2021-11-17 18:03:37.412453:, coinbase_listing
+INFO-2021-11-17 18:03:37,429: End 2021-11-17 18:03:37.429446:, coinbase_listing
+INFO-2021-11-17 18:03:47,440: Starting  get_page 2021-11-17 18:03:47.440632:, /@coinbaseblog
+INFO-2021-11-17 18:03:48,922: End get_page 2021-11-17 18:03:48.922332:, /@coinbaseblog
+INFO-2021-11-17 18:03:48,943: Start 2021-11-17 18:03:48.943319:, coinbase_listing
+INFO-2021-11-17 18:03:48,945: End 2021-11-17 18:03:48.945317:, coinbase_listing
+INFO-2021-11-17 18:03:58,947: Starting  get_page 2021-11-17 18:03:58.947104:, /@coinbaseblog
+INFO-2021-11-17 18:04:00,198: End get_page 2021-11-17 18:04:00.198144:, /@coinbaseblog
+INFO-2021-11-17 18:04:00,207: Start 2021-11-17 18:04:00.207070:, coinbase_listing
+INFO-2021-11-17 18:04:00,221: End 2021-11-17 18:04:00.221401:, coinbase_listing
+INFO-2021-11-17 18:04:10,228: Starting  get_page 2021-11-17 18:04:10.228163:, /@coinbaseblog
+INFO-2021-11-17 18:04:12,107: End get_page 2021-11-17 18:04:12.107949:, /@coinbaseblog
+INFO-2021-11-17 18:04:12,178: Start 2021-11-17 18:04:12.178904:, coinbase_listing
+INFO-2021-11-17 18:04:12,185: End 2021-11-17 18:04:12.185945:, coinbase_listing
+INFO-2021-11-17 20:32:35,210: Starting  get_page 2021-11-17 20:32:35.210519:, /@coinbaseblog
+ERROR-2021-11-17 20:32:35,220: Error 2021-11-17 20:32:35.219516:, HTTPSConnectionPool(host='medium.com', port=443): Max retries exceeded with url: /@coinbaseblog (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027A6B851700>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+INFO-2021-11-17 20:38:02,035: Starting bot 2021-11-17 20:38:02.034459
+INFO-2021-11-17 20:38:02,035: Starting  get_page 2021-11-17 20:38:02.035459:, /@coinbaseblog
+INFO-2021-11-17 20:38:04,101: End get_page 2021-11-17 20:38:04.101163:, /@coinbaseblog
+INFO-2021-11-17 20:38:04,123: Start 2021-11-17 20:38:04.123150:, coinbase_listing
+INFO-2021-11-17 20:38:04,125: End 2021-11-17 20:38:04.125149:, coinbase_listing
+INFO-2021-11-17 20:38:14,138: Starting  get_page 2021-11-17 20:38:14.138881:, /@coinbaseblog
+INFO-2021-11-17 20:38:15,551: End get_page 2021-11-17 20:38:15.551791:, /@coinbaseblog
+INFO-2021-11-17 20:38:15,572: Start 2021-11-17 20:38:15.572778:, coinbase_listing
+INFO-2021-11-17 20:38:16,059: New News: /@coinbaseblog/alchemix-alcx-ethereum-name-service-ens-gala-gala-gyen-gyen-and-power-ledger-powr-are-e472f0e9cf7 2021-11-17 20:38:16.059832
+INFO-2021-11-17 20:38:16,061: End 2021-11-17 20:38:16.061845:, coinbase_listing
+INFO-2021-11-17 20:38:26,074: Starting  get_page 2021-11-17 20:38:26.073242:, /@coinbaseblog
+INFO-2021-11-17 20:38:27,883: End get_page 2021-11-17 20:38:27.883688:, /@coinbaseblog
+INFO-2021-11-17 20:38:27,905: Start 2021-11-17 20:38:27.905468:, coinbase_listing
+INFO-2021-11-17 20:38:27,907: End 2021-11-17 20:38:27.907467:, coinbase_listing
+INFO-2021-11-17 20:38:37,911: Starting  get_page 2021-11-17 20:38:37.911091:, /@coinbaseblog
+INFO-2021-11-17 20:38:40,438: End get_page 2021-11-17 20:38:40.438690:, /@coinbaseblog
+INFO-2021-11-17 20:38:40,474: Start 2021-11-17 20:38:40.474179:, coinbase_listing
+INFO-2021-11-17 20:38:40,478: End 2021-11-17 20:38:40.478178:, coinbase_listing
+INFO-2021-11-17 20:38:50,478: Starting  get_page 2021-11-17 20:38:50.478415:, /@coinbaseblog
+INFO-2021-11-17 20:38:52,704: End get_page 2021-11-17 20:38:52.704182:, /@coinbaseblog
+INFO-2021-11-17 20:38:52,722: Start 2021-11-17 20:38:52.722174:, coinbase_listing
+INFO-2021-11-17 20:38:52,724: End 2021-11-17 20:38:52.724173:, coinbase_listing
+INFO-2021-11-17 20:39:02,737: Starting  get_page 2021-11-17 20:39:02.737045:, /@coinbaseblog
+INFO-2021-11-17 20:39:04,314: End get_page 2021-11-17 20:39:04.314883:, /@coinbaseblog
+INFO-2021-11-17 20:39:04,334: Start 2021-11-17 20:39:04.334871:, coinbase_listing
+INFO-2021-11-17 20:39:04,336: End 2021-11-17 20:39:04.336870:, coinbase_listing
+INFO-2021-11-17 20:39:14,343: Starting  get_page 2021-11-17 20:39:14.343911:, /@coinbaseblog
+INFO-2021-11-17 20:39:16,173: End get_page 2021-11-17 20:39:16.173725:, /@coinbaseblog
+INFO-2021-11-17 20:39:16,192: Start 2021-11-17 20:39:16.192715:, coinbase_listing
+INFO-2021-11-17 20:39:16,194: End 2021-11-17 20:39:16.194714:, coinbase_listing
+INFO-2021-11-17 20:39:26,204: Starting  get_page 2021-11-17 20:39:26.204114:, /@coinbaseblog
+INFO-2021-11-17 20:39:27,673: End get_page 2021-11-17 20:39:27.673075:, /@coinbaseblog
+INFO-2021-11-17 20:39:27,695: Start 2021-11-17 20:39:27.695060:, coinbase_listing
+INFO-2021-11-17 20:39:27,697: End 2021-11-17 20:39:27.697060:, coinbase_listing
+INFO-2021-11-17 20:39:37,698: Starting  get_page 2021-11-17 20:39:37.698900:, /@coinbaseblog
+INFO-2021-11-17 20:39:39,155: End get_page 2021-11-17 20:39:39.154589:, /@coinbaseblog
+INFO-2021-11-17 20:39:39,175: Start 2021-11-17 20:39:39.175577:, coinbase_listing
+INFO-2021-11-17 20:39:39,177: End 2021-11-17 20:39:39.177574:, coinbase_listing
+INFO-2021-11-17 20:39:49,177: Starting  get_page 2021-11-17 20:39:49.177979:, /@coinbaseblog
+INFO-2021-11-17 20:39:50,582: End get_page 2021-11-17 20:39:50.582549:, /@coinbaseblog
+INFO-2021-11-17 20:39:50,603: Start 2021-11-17 20:39:50.603538:, coinbase_listing
+INFO-2021-11-17 20:39:50,607: End 2021-11-17 20:39:50.607535:, coinbase_listing
+INFO-2021-11-17 20:40:00,612: Starting  get_page 2021-11-17 20:40:00.612728:, /@coinbaseblog
+INFO-2021-11-17 20:40:02,905: End get_page 2021-11-17 20:40:02.905135:, /@coinbaseblog
+INFO-2021-11-17 20:40:02,926: Start 2021-11-17 20:40:02.926121:, coinbase_listing
+INFO-2021-11-17 20:40:02,928: End 2021-11-17 20:40:02.928121:, coinbase_listing
+INFO-2021-11-17 20:40:12,939: Starting  get_page 2021-11-17 20:40:12.939656:, /@coinbaseblog
+INFO-2021-11-17 20:40:14,520: End get_page 2021-11-17 20:40:14.520017:, /@coinbaseblog
+INFO-2021-11-17 20:40:14,539: Start 2021-11-17 20:40:14.539622:, coinbase_listing
+INFO-2021-11-17 20:40:14,542: End 2021-11-17 20:40:14.542623:, coinbase_listing
+INFO-2021-11-17 20:40:24,550: Starting  get_page 2021-11-17 20:40:24.550877:, /@coinbaseblog
+INFO-2021-11-17 20:40:26,149: End get_page 2021-11-17 20:40:26.149797:, /@coinbaseblog
+INFO-2021-11-17 20:40:26,181: Start 2021-11-17 20:40:26.181775:, coinbase_listing
+INFO-2021-11-17 20:40:26,183: End 2021-11-17 20:40:26.183775:, coinbase_listing
+INFO-2021-11-17 20:40:36,186: Starting  get_page 2021-11-17 20:40:36.186132:, /@coinbaseblog
+INFO-2021-11-17 20:40:39,327: Exit by user 2021-11-17 20:40:39.327883
