@@ -148,3 +148,7 @@ cython_debug/
 
 # tmuxinator
 .tmuxinator.yml
+
+# files
+database/files
+logs
