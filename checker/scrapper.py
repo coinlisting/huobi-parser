@@ -4,6 +4,8 @@ import requests
 import sys
 import datetime
 import logging
+from proxy.init import proxy_list
+
 from urllib.parse import urlparse
 
 sys.path.append('..')
@@ -12,16 +14,17 @@ from environs import Env
 # Это для получения конфигов 
 env = Env()
 env.read_env()
-
+proxy_list
 # Стандартная уришка
-url = 'https://medium.com/'
+url = 'https://medium.com'
+#	https://medium.com/@erbolbaysalov
 
 # Отправляет запрос в указанный линк и возвращает структуру страницы
 def get_page(link):
     logging.info('Starting  get_page {}:, {}'.format(datetime.datetime.now(), str(link)))
     response = requests.get(url+link)
     soup = BeautifulSoup(response.text, 'lxml')
-    logging.info('End  get_page {}:, {}'.format(datetime.datetime.now(), str(link)))
+    logging.info('End get_page {}:, {}'.format(datetime.datetime.now(), str(link)))
     return soup
 
 def get_page_content(url):

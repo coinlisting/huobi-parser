@@ -14,8 +14,8 @@ if __name__ == '__main__':
     try:
         logging.info('Starting bot {}'.format(datetime.datetime.now()))
         while True:
-            preparation_before_sending('crypto_listing')            
-            time.sleep(5)
+            preparation_before_sending('coinbase_listing')            
+            time.sleep(10)
     except Exception as err: 
         logging.error('Error {}:, {}'.format(datetime.datetime.now(), str(err)))
     except KeyboardInterrupt as error:
