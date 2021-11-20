@@ -2,11 +2,6 @@
 from hashlib import new
 import requests
 import sys
-import datetime
-import logging
-from proxy.init import proxy_list
-
-from urllib.parse import urlparse
 
 sys.path.append('..')
 from bs4 import BeautifulSoup
@@ -14,26 +9,30 @@ from environs import Env
 # Это для получения конфигов 
 env = Env()
 env.read_env()
-proxy_list
 # Стандартная уришка
-url = 'https://medium.com'
-#	https://medium.com/@erbolbaysalov
 
 # Отправляет запрос в указанный линк и возвращает структуру страницы
-def get_page(link):
-    logging.info('Starting  get_page {}:, {}'.format(datetime.datetime.now(), str(link)))
-    response = requests.get(url+link, verify=False)
-    soup = BeautifulSoup(response.text, 'lxml')
-    logging.info('End get_page {}:, {}'.format(datetime.datetime.now(), str(link)))
-    return soup
+def get_page():
+    search = '마켓 디지털 자산'
+    url = f'https://api-manager.upbit.com/api/v1/notices/search?'
+    params = {
+        'search': search,
+        'page': '1',
+        'per_page': '1',
+        'before': '',
+        'target': 'non_ios',
+        'thread_name': 'general'
+    }
+    response = requests.get(url, params=params)
+    return response.json()
 
-def get_page_content(url):
+def get_page_content():
     '''Возвращаем страницу которую парсим'''
-    soup = get_page(url)                                            # отправляем запрос, получаем структуру страницы
-    last_record = soup.select('h1.hw a')                            # ищем нужный на тэг с нужной айдишкой
-    rec_text = last_record[0].text
-    link = urlparse(last_record[0]['href'])._replace(query=None).geturl(); 
-    content = {'TEXT': rec_text, 'LINK': link}
+    soup = get_page()                                            # отправляем запрос, получаем структуру страницы
+    last_record = soup['data']['list'][0]                        # ищем нужный на тэг с нужной айдишкой
+    rec_text = last_record['title']
+    rec_link = str(last_record['id'])
+    content = {'TEXT': rec_text, 'LINK': rec_link}
     return content
 
 
