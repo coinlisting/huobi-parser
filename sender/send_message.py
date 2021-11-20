@@ -1,10 +1,10 @@
 import requests
 from environs import Env
-
 env = Env()
 env.read_env()
 
 def telegram_bot_sendtext(bot_message):
+    
     token = env('BOT_TOKEN')
     url = f'https://api.telegram.org/bot{token}/sendMessage'
     params = {
