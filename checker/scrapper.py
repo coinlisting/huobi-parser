@@ -13,15 +13,15 @@ env.read_env()
 
 # Отправляет запрос в указанный линк и возвращает структуру страницы
 def get_page():
-    search = '마켓 디지털 자산'
-    url = f'https://api-manager.upbit.com/api/v1/notices/search?'
+    #search = '마켓 디지털 자산'
+    url = f'https://www.huobi.com/-/x/support/public/getList/v2?'
+    #page=1&limit=20&oneLevelId=360000031902&twoLevelId=360000039942&language=en-us
     params = {
-        'search': search,
         'page': '1',
-        'per_page': '1',
-        'before': '',
-        'target': 'non_ios',
-        'thread_name': 'general'
+        'limit': '1',
+        'oneLevelId': '360000031902',
+        'twoLevelId': '360000039942',
+        'language': 'en-us'
     }
     response = requests.get(url, params=params)
     return response.json()

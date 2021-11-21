@@ -6,14 +6,14 @@ from database.store_file import reading_file, writing_file
 from sender.send_message import telegram_bot_sendtext
 
 parent_links = {
-                'upbit_listing': "/service_center/notice?id="
+                'huobi_listing': "/support/en-us/detail/"
                 }
 def preparation_before_sending(parent):
-    upbit = 'https://upbit.com/service\_center/notice?id='
+    huobi = 'https://www.huobi.com/support/en-us/detail/'
     content = get_page_content()
     content['PARENT'] = parent
     logging.info('Start {}:, {}'.format(datetime.datetime.now(), str(parent)))
-    news = content['TEXT'] + ' ' + upbit + content['LINK']
+    news = content['TEXT'] + ' ' + huobi + content['LINK']
     last_news_mes = reading_file('./database/files/' + content['PARENT'] + '.json')
         
     #проверяет есть ли похожие новости
